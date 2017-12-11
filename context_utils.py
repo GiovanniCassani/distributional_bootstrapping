@@ -770,9 +770,12 @@ def make_matrix(input_matrix, row_target_indices, row_source_indices, col_indice
 def plot_matrix(x, output_path='', neighbors=0):
 
     """
-    :param x:
-    :param output_path:
-    :param neighbors:
+    :param x:           a 2d NumPy array
+    :param output_path: the path to the file where the plot will be saved
+    :param neighbors:   the number of nearest neighbour to be shown in the matrix plot. Default to 0 means that all 
+                        neighbours are displayed; setting a different, positive number means that only the neighbours
+                        up to the desired number are gonna be printed with all the other cells artificially set to 0
+                        so not to clutter the visualization.
     """
 
     r, c = x.shape
