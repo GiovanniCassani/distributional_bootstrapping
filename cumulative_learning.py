@@ -348,7 +348,7 @@ def cumulative_learning(corpus_folder, output_folder, pos_map_file,
             # make the test section, that will always be the same for every corpus, and compute the number of sentences,
             # tokens, and types in it
             test_corpus = '/'.join([corpus_output_folder, 'test_set.txt'])
-            test_sentences, test_tokens, test_types = make_corpus_section('test_set.txt', age_sections, training_months,
+            test_sentences, test_tokens, test_types = make_corpus_section('test_set.txt', age_sections, months,
                                                                           target_dir=corpus_output_folder,
                                                                           pos_dict=pos_mapping, training=False)
         else:
