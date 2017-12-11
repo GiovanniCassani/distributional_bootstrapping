@@ -1,11 +1,14 @@
 __author__ = 'GCassani'
 
+
 import os
 import re
 import csv
 import operator
 import warnings
 import matplotlib.pyplot as plt
+from datetime import datetime
+from time import strftime
 from collections import defaultdict, Counter
 with warnings.catch_warnings():
     warnings.filterwarnings("ignore", category=DeprecationWarning)
@@ -248,6 +251,7 @@ def words_and_contexts(tokens, filtered_corpus, min_length, size, boundaries=Tru
                             criteria
     :param min_length:      the minimum number of strings in a clean utterance for it to be considered legitimate
     :param size:            the size of the window around each target word, in which contexts are collected
+    :param boundaries:      a boolean indicating whether to consider utterance boundaries as legitimate contexts or not
     :param lemmas:          a list of strings of the same length as tokens; if one is passed, tokens are assumed to be
                             simple strings, not carrying any PoS information, which is taken from the lemmas, which are
                             in turn supposed to consist of a word and a PoS tag, joined by a tilde ('~'); if no lemmas
@@ -1186,3 +1190,395 @@ def model_id(cond_prob=True, div=True, freq=True, bigrams=True, trigrams=True):
     context = ''.join([context, 't']) if trigrams else context
 
     return '_'.join([info, context])
+
+
+def harvest_frames(input_corpus, pos_dict=None, boundaries=True, freq_frames=True, flex_frames=False):
+
+    """
+    :param input_corpus:    the path to a .txt file containing CHILDES transcripts, with one utterance per line and
+                            words divided by white spaces. The first element of each utterance is the capitalized label
+                            of the speaker, as found in CHILDES. The second element is a dummy word marking the
+                            beginning of the utterance, #start; the last element is a dummy word marking the end of the
+                            utterance, #end. Each word is paired to its Part-of-Speech tag, the two separated by a
+                            tilde, word~PoS.
+    :param pos_dict:        a dictionary mapping CHILDES PoS tags to custom tags; any CHILDES tag that doesn't appear as
+                            key in the dictionary is assumed to be irrelevant and words labeled with those tags are
+                            discarded; the default to None means that every input word is considered
+    :param boundaries:      a boolean indicating whether utterance boundaries are to be considered or not as context
+                            elements.
+    :param freq_frames:     a boolean indicating whether frequent frames are collected
+    :param flex_frames:     a boolean indicating whether flexible frames are collected
+    :return frames:         a dictionary containing the n most frequent frames as keys and the corresponding frequency
+                            counts as values; words within a frame are separated by two underscores ('__')
+
+    The function makes it possible to harvest frequent and flexible frames at the same time, but the two are stored in
+    the same dictionary: if both parameters are set to True, a way must be devised to discriminate frequent and flexible
+    frames afterwards: it's fairly trivial given the structure of the frames, but it's not implemented here. Ideally,
+    this function is called with either of frequent and flexible frames, but not both.
+    """
+
+    frames = Counter()
+    corpus = read_txt_corpusfile(input_corpus)
+
+    sep = '__'
+
+    for line in corpus:
+        if line[0] != 'CHI':
+            # get rid of the speaker ID once made sure the utterance doesn't come from the child
+            del line[0]
+
+            # get rid of unwanted elements from the original utterance
+            words = clean_utterance(line, boundaries=boundaries, pos_dict=pos_dict)
+
+            # get the numerical index of the last element in the utterance. If frequent frames are to be collected,
+            # subtract one from the last index and add one to the first index, because no trigram can be collected
+            # for the first and last elements
+            if flex_frames:
+                last_idx = len(words)
+                idx = 0
+                while idx < last_idx:
+                    # collect flexible frames, minding that no right context is collected for the end of utterance
+                    # dummy word and no left context is collected for the beginning of utterance dummy word; store
+                    # the frequency count of each frame
+                    if words[idx].split('~', 1)[1] != '#end':
+                        frame = sep.join([words[idx].split('~', 1)[1], 'X'])
+                        frames[frame] += 1
+                    if words[idx].split('~', 1)[1] != '#start':
+                        frame = sep.join(['X', words[idx].split('~', 1)[1]])
+                        frames[frame] += 1
+                    idx += 1
+
+            if freq_frames:
+                last_idx = len(words) - 1
+                idx = 1
+                while idx < last_idx:
+                    # collect flexible frames
+                    frame = sep.join([words[idx-1].split('~', 1)[1],
+                                      'X', words[idx+1].split('~', 1)[1]])
+                    frames[frame] += 1
+
+                    idx += 1
+
+    return frames
+
+
+########################################################################################################################
+
+
+def learning_contexts(input_corpus, pos_dict=None, k=1, boundaries=True, bigrams=True, trigrams=True, cond_prob=True,
+                      div=True, freq=True, averages=True):
+
+    """
+    :param input_corpus:    the path to a .txt file containing CHILDES transcripts, with one utterance per line and
+                            words divided by white spaces. The first element of each utterance is the capitalized label
+                            of the speaker, as found in CHILDES. The second element is a dummy word marking the
+                            beginning of the utterance, #start; the last element is a dummy word marking the end of the
+                            utterance, #end. Each word is paired to its Part-of-Speech tag, the two separated by a
+                            tilde, word~PoS.
+    :param pos_dict:        a dictionary mapping CHILDES PoS tags to custom tags; any CHILDES tag that doesn't appear as
+                            key in the dictionary is assumed to be irrelevant and words labeled with those tags are
+                            discarded; the default to None means that every input word is considered
+    :param k:               the threshold to determine which contexts are salient: every context whose score is higher
+                            than t is considered to be salient. The default is 1.
+    :param boundaries:      a boolean indicating whether utterance boundaries are to be considered or not as context
+    :param bigrams:         a boolean indicating whether bigrams are to be collected
+    :param trigrams:        a boolean indicating whether trigrams are to be collected
+    :param cond_prob:       a boolean indicating whether average conditional probabilities of contexts given words are
+                            a relevant piece of information in deciding about how important a context it
+    :param div:             a boolean indicating whether lexical diversity of contexts, i.e. the number of different
+                            words that occur in a context, is a relevant piece of information in deciding about how
+                            important a context it
+    :param freq:            a boolean indicating whether contexts' frequency count is a relevant piece of information in
+                            deciding about how important a context it
+    :param averages:        a boolean specifying whether frequency, diversity, and predictability values for each
+                            context have to be compared to running averages
+    :return contexts:       a dictionary mapping contexts to their relevance score
+    """
+
+    # set the size of the window around the target word where contexts are collected
+    size = 2 if trigrams else 1
+
+    # set the minimum length of a legitimate utterance: 0 if utterance boundaries are not considered and 2 if they are,
+    # since there will always at least the two boundary markers
+    min_length = 2 if boundaries else 0
+
+    # read in the corpus and initialize a list where to store utterances that survived the cleaning step
+    # (i.e. utterances that contained at least one legitimate word that is not a boundary marker, if they are considered
+    corpus = read_txt_corpusfile(input_corpus)
+    filtered_corpus = []
+    words = set()
+    contexts = set()
+
+    # collect all words and contexts from the corpus, getting rid of PoS tags so that homographs are not disambiguated
+    # if they are tagged differently
+    for line in corpus:
+        # get rid of all utterances uttered by the child and clean child-directed utterances
+        if line[0] != 'CHI':
+            del line[0]
+            w, c = words_and_contexts(line, filtered_corpus, min_length, size, boundaries=boundaries,
+                                      pos_dict=pos_dict, bigrams=bigrams, trigrams=trigrams)
+            for el in w:
+                words.add(strip_pos(el, i=1))
+            for el in c:
+                contexts.add(strip_pos(el, i=1, context=True))
+
+    # map words and contexts to numerical indices
+    words2ids = sort_items(words)
+    contexts2ids = sort_items(contexts)
+    print(strftime("%Y-%m-%d %H:%M:%S") + ": I collected all words and contexts in the input corpus.")
+    print()
+
+    total_utterances = len(filtered_corpus)
+    check_points = {np.floor(total_utterances / float(100) * n): n for n in np.linspace(5, 100, 20)}
+
+    # initialize an empty matrix with as many rows as there are words and as many columns as there are contexts in the
+    # input corpus, making sure cells store float and not integers
+    co_occurrences = np.zeros([len(words2ids), len(contexts2ids)]).astype(float)
+    word_frequencies = np.zeros([len(words2ids)])
+
+    line_idx = 0
+    for utterance in filtered_corpus:
+        # set the first and last index of the utterance, depending on whether utterance boundaries are to be considered
+        idx = 1 if boundaries else 0
+        last_idx = len(utterance) - 1 if boundaries else len(utterance)
+        while idx < last_idx:
+            current_word = utterance[idx]
+            # collect all contexts for the current pivot word
+            context_window = construct_window(utterance, idx, size, splitter='~')
+            current_contexts = get_ngrams(context_window, bigrams=bigrams, trigrams=trigrams)
+            row_id = words2ids[current_word.split('~')[1]]
+            word_frequencies[row_id] += 1
+            for context in current_contexts:
+                # store the co-occurrence count between the word and context being considered and update
+                # their salience score
+                col_id = contexts2ids[context]
+                co_occurrences[row_id, col_id] += 1
+            idx += 1
+
+        # at every 5% of the input corpus, print progress and store summary statistics: nothing is done with them, but
+        # a plot can be made, or the values returned
+        line_idx += 1
+        if line_idx in check_points:
+            print('Line ' + str(line_idx) + ' has been processed at ' + str(datetime.now()) + '.')
+
+    if averages:
+        avg_freq, avg_div, avg_prob = get_averages(co_occurrences, word_frequencies)
+    else:
+        avg_freq, avg_div, avg_prob = [None, None, None]
+
+    contexts_scores = compute_context_score(co_occurrences, contexts2ids, word_frequencies,
+                                            cond_prob=cond_prob, div=div, freq=freq,
+                                            avg_cond_prob=avg_prob, avg_freq=avg_freq, avg_lex_div=avg_div)
+
+    # only return contexts whose salience score is higher than the threshold t
+    return dict((key, value) for key, value in contexts_scores.items() if value > k)
+
+
+########################################################################################################################
+
+
+def build_experiment_vecspace(input_corpus, salient_contexts, pos_dict=None, targets='', to_ignore='',
+                              boundaries=True, bigrams=True, trigrams=True):
+
+    """
+    :param input_corpus:        the path to a .txt file containing CHILDES transcripts, with one utterance per line and
+                                words divided by white spaces. The first element of each utterance is the capitalized
+                                label of the speaker, as found in CHILDES. The second element is a dummy word marking
+                                the beginning of the utterance, #start; the last element is a dummy word marking the end
+                                of the utterance, #end. Each word is paired to its Part-of-Speech tag, the two separated
+                                by a tilde, word~PoS.
+    :param salient_contexts:    a set containing the contexts determined to be salient
+    :param pos_dict:            a dictionary mapping CHILDES PoS tags to custom tags; any CHILDES tag that doesn't
+                                appear as key in the dictionary is assumed to be irrelevant and words labeled with those
+                                tags are discarded; the default to None means that every word is considered
+    :param targets:             the path to a .txt file containing the target words, i.e. the words for which
+                                co-occurrence counts will be collected. The file contains one word per line, with words
+                                joined to the corresponding PoS tag by a tilde. By default, no file is passed and the
+                                function considers all words as targets.
+    :param to_ignore:           the path to a .txt file containing the words to be ignored. The file contains one word
+                                per line, with words joined to the corresponding PoS tag by a tilde. By default, no file
+                                is passed and the function considers all words, without ignoring any.
+    :param boundaries:          a boolean indicating whether utterance boundaries are to be considered or not as context
+    :param bigrams:             a boolean indicating whether bigrams are to be collected
+    :param trigrams:            a boolean indicating whether trigrams are to be collected
+    :return co_occurrences:     a dictionary of dictionaries, mapping words to context to the word-context co-occurrence
+                                count in the input corpus
+    :return useless_contexts:   a set containing the contexts from the input dictionary that never occurred in the
+                                corpus or that only occurred with one word (either because they only occur once or
+                                because they occur multiple times but always with the same word type)
+    :return unused_words:       a set containing the words in the input corpus that occur at least once in at least one
+                                of the contexts provided in the input dictionary contexts
+    """
+
+    # read in the sets of words to be used as targets and/or those to be avoided, if provided
+    target_words = read_targets(targets, pos_dict=pos_dict) if targets else set()
+    skip_words = read_targets(to_ignore, pos_dict=pos_dict) if to_ignore else set()
+
+    # set the size of the window around the target word where contexts are collected
+    size = 2 if trigrams else 1
+
+    # set the minimum length of a legitimate utterance: 0 if utterance boundaries are not considered and 2 if they are,
+    # since there will always at least the two boundary markers
+    min_length = 2 if boundaries else 0
+
+    # read in the corpus and initialize a list where to store utterances that survived the cleaning step
+    # (i.e. utterances that contained at least one legitimate word that is not a boundary marker, if they are considered
+    corpus = read_txt_corpusfile(input_corpus)
+    filtered_corpus = []
+    words = set()
+
+    # collect all words from the corpus, preserving the PoS tags, since we want to be able to tell whether we categorize
+    # each homograph correctly
+    for line in corpus:
+        # get rid of all utterances uttered by the child and clean child-directed utterances
+        if line[0] != 'CHI':
+            del line[0]
+            w, c = words_and_contexts(line, filtered_corpus, min_length, size,
+                                      pos_dict=pos_dict, bigrams=bigrams, trigrams=trigrams)
+            words = words.union(w)
+
+    # get the target words for which co-occurrence counts needs to be collected, depending on the set of target words or
+    # words to be ignored passed to the function
+    targets = set()
+    for w in words:
+        if target_words:
+            if w in target_words and w not in skip_words:
+                targets.add(w)
+        else:
+            if w not in skip_words:
+                targets.add(w)
+
+    # map words and contexts (provided in the input) to numerical indices
+    targets2ids = sort_items(targets)
+    contexts2ids = sort_items(salient_contexts)
+    print(strftime("%Y-%m-%d %H:%M:%S") + ": I collected all words in the corpus.")
+    print()
+
+    """
+    At this point we have two dictionaries:
+     - one contains all the words collected in the corpus passed as input to this function and filtered according to the 
+       words in the set of target words and in the set of words to be ignored; surviving words are sorted according to
+       the PoS tag and then according to the word form, stored as keys in the form PoStag~word and mapped to numerical 
+       indices.
+     - one contains the contexts passed as input to the function (the contexts that were deemed salient by the 
+       function learning_contexts), from which all information about PoS tags has been stripped away; these contexts
+       are sorted and mapped to numerical indices
+    The numerical indices will point to rows (words) and columns (contexts) of a 2d NumPy array that will store 
+    word-context co-occurrence counts. Contexts are sorted because columns have to be aligned across training and test
+    spaces. Words are sorted so that words from the same PoS tags are in neighbouring rows and make the visualization
+    of further steps easier to grasp
+    """
+
+    total_utterances = len(filtered_corpus)
+    check_points = {np.floor(total_utterances / float(100) * n): n for n in np.linspace(5, 100, 20)}
+    co_occurrences = np.zeros([len(targets2ids), len(salient_contexts)]).astype(float)
+    line_idx = 0
+
+    for utterance in filtered_corpus:
+        idx = 1 if boundaries else 0
+        last_idx = len(utterance) - 1 if boundaries else len(utterance)
+        while idx < last_idx:
+            current_word = utterance[idx]
+            if current_word in targets2ids:
+                # only process the word if it is among the targets (i.e. either it occurs in the set of target words or
+                # it doesn't occur in the set of words to be ignored, as determined previously)
+                w = construct_window(utterance, idx, size, splitter='~')
+                curr_contexts = get_ngrams(w, bigrams=bigrams, trigrams=trigrams)
+                row_id = targets2ids[current_word]
+                for context in curr_contexts:
+                    if context in salient_contexts:
+                        # only keep track of co-occurrences between target words and salient contexts
+                        col_id = contexts2ids[context]
+                        co_occurrences[row_id, col_id] += 1
+            # move on through the sentence being processed
+            idx += 1
+
+        line_idx += 1
+        if line_idx in check_points:
+            print('Line ' + str(line_idx) + ' has been processed at ' + str(datetime.now()) + '.')
+
+    # get the contexts with lexical diversity lower than 2 (thus salient contexts that never occurred in the input
+    # corpus or contexts that only occurred with one word, being useless to any categorization task)
+    # the 2 in the function call is the minimum lexical diversity of a context to be considered useful
+    # the rows=False argument indicates that the function has to work over columns
+    # it returns a set of strings containing the contexts that don't meet the criterion of minimum lexical diversity
+    useless_contexts = diversity_cutoff(co_occurrences, 2, contexts2ids, rows=False)
+
+    # create a vector of booleans, with as many values as there are rows in the co-occurrence matrix: this vector has
+    # Trues on indices corresponding to rows in the co-occurrence matrix with more than 1 non-zero cell and Falses
+    # everywhere else. This vector is used to get rid of 'empty' lines from the co-occurrence matrix and identify
+    # indices corresponding to words that never occurred with any of the salient contexts, and then the words
+    # corresponding to these indices. Re-align the word-index mapping to the new matrix, taking advantage of the
+    # alphabetical order of the indices.
+    mask = (co_occurrences > 0).sum(1) > 0
+    unused_indices = np.where(mask == False)[0]
+    co_occurrences = co_occurrences[mask, :]
+    clean_targets2ids = {}
+    unused_words = set()
+
+    # loop through the word-index pairs from the smallest index to the largest; if the index is among the unused ones,
+    # add the corresponding word to the set of unused word; otherwise assign it a new progressive index that will match
+    # the row of the new co-occurrence matrix (this works because the order of the retained rows in the matrix is
+    # preserved, so lines at the top of the original matrix will also be at the top of the cleaned matrix and so on)
+    new_idx = 0
+    for w, i in sorted(targets2ids.items(), key=operator.itemgetter(1)):
+        if i in unused_indices:
+            unused_words.add(w)
+        else:
+            clean_targets2ids[w] = new_idx
+            new_idx += 1
+
+    return co_occurrences, useless_contexts, unused_words, clean_targets2ids, contexts2ids
+
+
+########################################################################################################################
+
+
+def category_f1(hits):
+
+    """
+    :param hits:        a dictionary of dictionaries mapping strings (the word types to be categorized) to three fields:
+                        'predicted', indicating the PoS tag predicted by the model
+                        'correct' indicating the gold standard PoS tag
+                        'accuracy', indicating whether the two match (1) or not (0)
+    :return stats:      a dictionary of dictionaries mapping each category to its corresponding recall, precision, and
+                        f1 scores. Each category is a key of the dictionary and a dictionary itself, whose keys are
+                        'recall', 'precision', and 'f1', mapping to the corresponding values. A further key of the
+                        top-level dictionary is 'all', consisting of the same three sub-keys, mapping to recall,
+                        precision, and f1 scores for the whole experiment.
+    """
+
+    stats = defaultdict(dict)
+
+    categories = set()
+    for item in hits:
+        categories.add(hits[item]['predicted'])
+        categories.add(hits[item]['correct'])
+
+    all_tp = []
+    all_tp_fn = []
+    all_tp_fp = []
+
+    for category in sorted(categories):
+        tp, tp_fp, tp_fn = precision_and_recall(hits, category)
+        recall = tp / tp_fn if tp_fn != 0 else 0
+        precision = tp / tp_fp if tp_fp != 0 else 0
+        f1 = 0 if (precision == 0 or recall == 0) else 2 * ((precision * recall) / (precision + recall))
+
+        stats[category]['recall'] = recall
+        stats[category]['precision'] = precision
+        stats[category]['f1'] = f1
+
+        all_tp.append(tp)
+        all_tp_fn.append(tp_fn)
+        all_tp_fp.append(tp_fp)
+
+    total_recall = sum(all_tp) / sum(all_tp_fn)
+    total_precision = sum(all_tp) / sum(all_tp_fp)
+    total_f1 = 2 * ((total_precision * total_recall) / (total_precision + total_recall))
+
+    stats['all']['recall'] = total_recall
+    stats['all']['precision'] = total_precision
+    stats['all']['f1'] = total_f1
+
+    return stats
