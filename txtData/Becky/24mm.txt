@@ -1,0 +1,3528 @@
+MOT #start~bound do~mod you~pro want~v to~inf mash~v some~qn potatos~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro all_gone~adj has~aux it~pro #end~bound
+MOT #start~bound on~prep there~pro:dem #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound mind~v your~pro:poss head~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound do~mod it~pro on~prep there~pro:dem #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound do~mod it~pro on~prep there~pro:dem #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v that~pro:dem away~adv there~adv #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound let's~v:obj get~v xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound step~n #end~bound
+CHI #start~bound a~det step~n #end~bound
+CHI #start~bound a~det step~n #end~bound
+MOT #start~bound a~det step~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound there's~pro:exist a~det step~n there~adv #end~bound
+MOT #start~bound right~co #end~bound
+CHI #start~bound step~n there~adv #end~bound
+CHI #start~bound up~prep you~pro go~v #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound going~part up~prep the~det steps~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound maybe~adv he~pro:sub could~mod go~v up~prep here~pro:dem as_well~adv #end~bound
+MOT #start~bound what~pro:wh is~cop this~det Becky~n:prop #end~bound
+CHI #start~bound up~prep there~pro:dem #end~bound
+MOT #start~bound and~coord how~adv:wh does~v he~pro:sub go~v up~prep there~pro:dem #end~bound
+CHI #start~bound up~prep there~pro:dem #end~bound
+CHI #start~bound up~prep there~pro:dem #end~bound
+MOT #start~bound up~prep the~det steps~n and~coord up~prep the~det ladder~n #end~bound
+MOT #start~bound he~pro:sub doesn't~mod fit~v on~prep there~pro:dem I'm~pro:sub afraid~adj #end~bound
+MOT #start~bound have_to~mod:aux have~v it~pro like~v that~pro:dem look~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound step~n #end~bound
+CHI #start~bound step~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound willn't~mod that~rel go~v round~adv #end~bound
+CHI #start~bound go~v round~adv #end~bound
+MOT #start~bound round~adv and~coord round~adv #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound xxx~None #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound step~n #end~bound
+MOT #start~bound shall~mod you~pro put~v um~None him~pro:obj on~prep the~det other~qn end~n then~adv:tem #end~bound
+CHI #start~bound step~n #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound do~mod you~pro think~v they're~pro:sub enjoying~part it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v the~det two~det:num little~adj men~n on~prep as_well~adv #end~bound
+MOT #start~bound where's~adv:wh the~det other~qn little~adj man~n gone~part Becky~n:prop #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound don't~mod know~v where~adv:wh he~pro:sub is~cop #end~bound
+MOT #start~bound oh~co he's~pro:sub here~adv #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound there~adv you~pro are~cop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound that's~pro:dem a~det good~adj one~pro:indef isn't~cop it~pro look~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf make~v a~det train~n up~adv #end~bound
+CHI #start~bound whale~n up~adv #end~bound
+CHI #start~bound a~det whale~n up~adv #end~bound
+MOT #start~bound whale~n up~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound up~adv on~prep here~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound who~pro:wh shall~mod we~pro:sub put~v in~prep the~det train~n #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf put~v him~pro:obj in~adv #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound who~None is~None who~pro:wh is~aux this~det #end~bound
+CHI #start~bound seal~n #end~bound
+MOT #start~bound seal~n #end~bound
+MOT #start~bound well~co he~pro:sub doesn't~mod fit~v in~prep very~adv well~adv #end~bound
+MOT #start~bound sit~v him~pro:obj like~prep this~pro:dem #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound why~adv:wh don't~mod you~pro sing~v something~pro:indef else~post for~prep us~pro:obj #end~bound
+MOT #start~bound can~mod you~pro sing~v #end~bound
+CHI #start~bound happy_birthday~co #end~bound
+MOT #start~bound happy_birthday~co #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+CHI #start~bound happy_birthday~co to~prep #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem here~adv look~co #end~bound
+CHI #start~bound wheelbarrow~n #end~bound
+MOT #start~bound and~conj what~pro:wh #end~bound
+CHI #start~bound push~n #end~bound
+MOT #start~bound you~pro want~v to~inf push~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh do~mod we~pro:sub put~None put~v in~prep it~pro #end~bound
+MOT #start~bound the~det fish~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound fishes~n fish~n #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound and~coord shall~mod we~pro:sub have~v a~det little~adj man~n pushing~part it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound wheelbarrow~n #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound you've~pro got~part a~det wheelbarrow~n haven't~aux you~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound it's~pro outside~adv #end~bound
+CHI #start~bound dolly~n Andy~n:prop in~adv #end~bound
+MOT #start~bound dolly~n and~coord Andy~n:prop were~aux in~prep it~pro weren't~cop they~pro:sub #end~bound
+MOT #start~bound but~conj I've~pro:sub brought~part dolly~n in~adv now~adv #end~bound
+CHI #start~bound a~None #end~bound
+CHI #start~bound big~adj toe~n #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound big~adj toe~n #end~bound
+MOT #start~bound a~det big~adj toe~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~pro:dem what~pro:wh she's~pro:sub got~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~pro:dem what~pro:wh you~pro can~mod see~v #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound whee~co #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf push~v him~pro:obj along~adv #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound come~v on~adv #end~bound
+MOT #start~bound push~v him~pro:obj along~adv #end~bound
+CHI #start~bound a~det wheel~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound fish~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound fishy~adj #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound you~pro want~v him~pro:obj in~prep there~pro:dem #end~bound
+MOT #start~bound all~qn right~n #end~bound
+MOT #start~bound there~adv we~pro:sub are~aux look~co #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound fishy~adj #end~bound
+MOT #start~bound there~adv you~pro are~cop #end~bound
+MOT #start~bound how~adv:wh does~v the~det train~n go~v #end~bound
+CHI #start~bound choo~on #end~bound
+MOT #start~bound are~cop you~pro gonna~part going~part to~inf push~v the~det train~n along~adv #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound you've~pro got~part your~pro:poss legs~n in~prep the~det way~n #end~bound
+MOT #start~bound go~v xxx~None #end~bound
+MOT #start~bound push~v it~pro along~prep here~pro:dem #end~bound
+MOT #start~bound how's~adv:wh he~pro:sub go~v #end~bound
+CHI #start~bound round~adj #end~bound
+MOT #start~bound what~pro:wh #end~bound
+CHI #start~bound round~adj #end~bound
+MOT #start~bound round~adv and~coord round~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound isn't~cop that~pro:dem good~adj #end~bound
+CHI #start~bound beep~on horn~n #end~bound
+MOT #start~bound pardon~co #end~bound
+MOT #start~bound beep~on the~det horn~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound I~pro:sub don't~mod #end~bound
+MOT #start~bound it~pro hasn't~aux got~v a~det horn~n #end~bound
+MOT #start~bound you'll~pro have_to~mod:aux make~v the~det noise~n #end~bound
+MOT #start~bound here's~pro:exist Sukie_Cat~n:prop come~v to~prep see~v us~pro:obj #end~bound
+CHI #start~bound Sukie_Cat~n:prop #end~bound
+MOT #start~bound he's~pro:sub having~part a~det little~adj sniff~v #end~bound
+INV #start~bound oh~co dear~co #end~bound
+MOT #start~bound to~inf see~v what's~pro:wh going~part on~adv #end~bound
+MOT #start~bound Sukie~n:prop #end~bound
+INV #start~bound that'll~rel make~v a~det funny~adj noise~n on~prep the~det microphone~n #end~bound
+INV #start~bound strange~adj smells~n #end~bound
+MOT #start~bound and~conj what's~pro:wh the~det matter~n with~prep Sukie~n:prop Becky~n:prop #end~bound
+MOT #start~bound what~pro:wh were~aux we~pro:sub doing~part this~det morning~n #end~bound
+MOT #start~bound has~v he~pro:sub xxx~None putting~part on~prep his~pro:poss ear~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound he's~pro:sub got~part a~det sore~adj ear~n #end~bound
+MOT #start~bound Sukie~n:prop #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound say~co hello~co to~prep Sukie~n:prop #end~bound
+CHI #start~bound hello~co Sukie~n:prop #end~bound
+CHI #start~bound dinner~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v Sukie~n:prop can~mod get~v him~pro:obj #end~bound
+CHI #start~bound xxx~None more~pro:indef #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound xxx~None more~pro:indef #end~bound
+CHI #start~bound xxx~None #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound choo~on #end~bound
+MOT #start~bound where's~adv:wh Sukie~n:prop now~adv Becky~n:prop #end~bound
+MOT #start~bound where~adv:wh is~cop he~pro:sub #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound is~cop he~pro:sub under~adv the~det table~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro think~v he~pro:sub wants~v some~qn food~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro think~v he~pro:sub wants~v his~pro:poss dinner~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+MOT #start~bound do~mod you~pro think~v Mummy~n:prop better~adv go~v and~coord give~v it~pro to~prep him~pro:obj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound www~None #end~bound
+INV #start~bound Mummy~n:prop going~part to~inf give~v Sukie~n:prop some~qn dinner~n #end~bound
+CHI #start~bound yeah~co #end~bound
+INV #start~bound a~None #end~bound
+CHI #start~bound choo~on #end~bound
+INV #start~bound choo~on #end~bound
+INV #start~bound oh~co #end~bound
+MOT #start~bound here~adv you~pro are~cop Sukie~n:prop #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound hard~adv #end~bound
+CHI #start~bound hard~adv #end~bound
+MOT #start~bound it's~pro hard~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what's~pro:wh hard~adv #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound oh~co I~pro:sub see~v #end~bound
+MOT #start~bound all~qn right~n #end~bound
+MOT #start~bound let~v me~pro:obj do~v it~pro #end~bound
+MOT #start~bound okay~co #end~bound
+CHI #start~bound round~adv the~det xxx~None #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound round~adv there~adv #end~bound
+MOT #start~bound it's~pro going~part round~adv where~adv:wh #end~bound
+CHI #start~bound round~adj xxx~None #end~bound
+CHI #start~bound round~adv the~det xxx~None #end~bound
+CHI #start~bound Pingu~n:prop #end~bound
+CHI #start~bound round~adv the~det xxx~None #end~bound
+CHI #start~bound round~adv the~det xxx~None #end~bound
+CHI #start~bound house~n #end~bound
+CHI #start~bound Pingu~n:prop house~n #end~bound
+MOT #start~bound Pingu's~n:prop house~n #end~bound
+MOT #start~bound it's~pro here~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound more~pro:indef #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound can~mod you~pro get~v him~pro:obj out~adv #end~bound
+MOT #start~bound can~mod you~pro get~v the~det penguin~n out~adv #end~bound
+MOT #start~bound go~v on~adv #end~bound
+MOT #start~bound put~v him~pro:obj in~adv #end~bound
+MOT #start~bound say~v hard~adv #end~bound
+MOT #start~bound oh~co #end~bound
+CHI #start~bound xxx~None in~prep house~n #end~bound
+CHI #start~bound in~prep house~n #end~bound
+CHI #start~bound byebye~co #end~bound
+MOT #start~bound byebye~co #end~bound
+CHI #start~bound crying~part #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound crying~part #end~bound
+MOT #start~bound he's~pro:sub crying~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound why's~adv:wh he~pro:sub crying~part #end~bound
+CHI #start~bound Pingu~n:prop crying~part #end~bound
+MOT #start~bound penguin's~n crying~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound but~conj why~adv:wh #end~bound
+MOT #start~bound is~cop he~pro:sub very~adv sad~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound yeah~co #end~bound
+INV #start~bound Pingu's~n:prop crying~part #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound Pingu~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound a~det tree~n #end~bound
+MOT #start~bound a~det tree~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v it~pro on~prep there~pro:dem #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound I~pro:sub doing~part #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound do~mod you~pro like~v seesaws~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+MOT #start~bound do~mod you~pro like~v going~part on~prep them~pro:obj with~prep your~pro:poss friends~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+CHI #start~bound see~n Margery~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound man~n seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound the~det man~n #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound xxx~None one~det:num of~prep the~det man~n #end~bound
+MOT #start~bound here's~pro:exist one~det:num man~n #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf put~v him~pro:obj on~adv #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound okay~co #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n #end~bound
+CHI #start~bound seesaw~n #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf get~v Tiny_Tears~n:prop Becky~n:prop #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+CHI #start~bound doing~part #end~bound
+CHI #start~bound I~pro:sub doing~part #end~bound
+CHI #start~bound mine~pro:poss #end~bound
+CHI #start~bound mine~pro:poss #end~bound
+CHI #start~bound mine~pro:poss #end~bound
+MOT #start~bound she's~pro:sub yours~pro:poss #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound I~pro:sub know~v she's~pro:sub yours~pro:poss #end~bound
+MOT #start~bound is~cop that~rel the~det noise~n she~pro:sub makes~v #end~bound
+INV #start~bound is~cop that~pro:dem what~pro:wh she~pro:sub makes~v #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf comb~v her~pro:poss hair~n #end~bound
+MOT #start~bound it's~pro here~adv Becky~n:prop #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound thank_you~co #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound fall~n down~adv #end~bound
+CHI #start~bound fall~n down~adv #end~bound
+MOT #start~bound fall~n down~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound what~pro:wh are~aux you~pro doing~part now~adv #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound hair~n #end~bound
+MOT #start~bound combing~part her~pro:poss hair~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound me~pro:obj #end~bound
+MOT #start~bound combing~part your~pro:poss hair~n #end~bound
+MOT #start~bound well~co you've~pro got~part bobble~n in~adv #end~bound
+MOT #start~bound comb~n Mummy's~n:prop hair~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co that's~pro:dem nice~adj isn't~cop it~pro #end~bound
+CHI #start~bound her~pro:poss face~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod comb~v her~pro:poss face~n #end~bound
+CHI #start~bound hair~n #end~bound
+CHI #start~bound hattie~n on~adv #end~bound
+MOT #start~bound he's~pro:sub got~part his~pro:poss hattie~n on~adv #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound whoops~co #end~bound
+CHI #start~bound where~adv:wh the~det juice~n #end~bound
+MOT #start~bound juice~n #end~bound
+MOT #start~bound what~pro:wh #end~bound
+MOT #start~bound for~conj dolly~n #end~bound
+MOT #start~bound xxx~None bit~v higher~adj up~adv #end~bound
+MOT #start~bound shall~mod you~pro sit~v her~pro:obj in~prep her~pro:poss chair~n and~coord give~v her~pro:obj some~qn dinner~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound no~co #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound er~None there~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound dinner~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound where's~adv:wh her~pro:poss dinner~n #end~bound
+CHI #start~bound all~adv wet~part #end~bound
+CHI #start~bound piggy~n all~adv wet~part #end~bound
+MOT #start~bound what's~pro:wh all~adv wet~part #end~bound
+CHI #start~bound piggy~n all~adv wet~part #end~bound
+MOT #start~bound piggy's~n all~adv wet~part #end~bound
+MOT #start~bound he~pro:sub is~cop a~det bit~n isn't~cop he~pro:sub #end~bound
+CHI #start~bound finger~n #end~bound
+CHI #start~bound finger~n #end~bound
+MOT #start~bound the~det finger~n #end~bound
+CHI #start~bound is~aux it~pro sore~n #end~bound
+CHI #start~bound mhm~co #end~bound
+CHI #start~bound hard~adv #end~bound
+MOT #start~bound hard~adv is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound why's~adv:wh it~pro hard~adv #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound mhm~co #end~bound
+MOT #start~bound it's~pro just~adj a~det bit~n sore~adj isn't~cop it~pro #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound hurt~v it~pro #end~bound
+MOT #start~bound oh~co does~mod it~pro hurt~v #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound well~co don't~mod pick~v at~prep it~pro #end~bound
+CHI #start~bound xxx~None dinner~n #end~bound
+MOT #start~bound dinner~n #end~bound
+MOT #start~bound for~conj dolly~adj or~coord for~prep Becky~n:prop #end~bound
+CHI #start~bound for~prep Becky~n:prop #end~bound
+MOT #start~bound dinner~n for~prep Becky~n:prop #end~bound
+MOT #start~bound that~rel makes~v a~det change~n #end~bound
+INV #start~bound xxx~None #end~bound
+MOT #start~bound okay~co #end~bound
+MOT #start~bound where's~adv:wh your~pro:poss spoon~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound where's~adv:wh Becky's~n:prop spoon~n #end~bound
+MOT #start~bound this~pro:dem is~cop all~adv wet~part #end~bound
+CHI #start~bound dolly~adj spoon~n #end~bound
+CHI #start~bound dolly~adj #end~bound
+MOT #start~bound I~pro:sub don't~mod know~v where~adv:wh dolly's~n spoon~n is~cop #end~bound
+MOT #start~bound can~mod you~pro remember~v what~pro:wh you~pro did~v with~prep it~pro #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound oh~co what's~pro:wh Sukie~n:prop doing~part #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub doing~part Becky~n:prop #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound he's~pro:sub in~prep #end~bound
+MOT #start~bound he~pro:sub is~aux out~adv now~adv #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound um~None #end~bound
+CHI #start~bound sit~v a~det bib~n #end~bound
+CHI #start~bound sit~v a~det bib~n #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound sit~v in~adv #end~bound
+CHI #start~bound a~det bib~n #end~bound
+CHI #start~bound sit~v in~adv #end~bound
+CHI #start~bound a~det bib~n #end~bound
+CHI #start~bound sit~v in~adv #end~bound
+CHI #start~bound a~det bib~n #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound dolly~adj spoon~n #end~bound
+CHI #start~bound spoon~n #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound we've~pro:sub lost~part the~det spoon~n #end~bound
+MOT #start~bound this~det one~pro:indef she~pro:sub calls~v her~pro:poss spoon~n #end~bound
+INV #start~bound right~co #end~bound
+MOT #start~bound there's~pro:exist another~qn one~pro:indef she~pro:sub calls~v dolly's~n spoon~n but~conj it~pro seems~v to~inf have~aux disappeared~part #end~bound
+MOT #start~bound probably~adj outside~adj #end~bound
+MOT #start~bound what~pro:wh did~mod you~pro do~v with~prep dolly's~n spoon~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound it's~pro in~prep there~pro:dem is~aux it~pro #end~bound
+MOT #start~bound in~adv where~rel #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound it~pro should~mod be~cop in~prep there~pro:dem but~conj it~pro isn't~cop #end~bound
+MOT #start~bound shall~mod we~pro:sub feed~v dolly~adj with~prep this~det spoon~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+MOT #start~bound oh~co here~adv it~pro is~cop #end~bound
+MOT #start~bound I'm~pro:sub sitting~part on~prep it~pro #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound thank_you~co #end~bound
+MOT #start~bound what~pro:wh are~aux you~pro eating~part #end~bound
+CHI #start~bound um~None xxx~None #end~bound
+CHI #start~bound mine~pro:poss #end~bound
+CHI #start~bound mine~pro:poss #end~bound
+MOT #start~bound what~pro:wh are~aux you~pro eating~part Becky~n:prop #end~bound
+CHI #start~bound mine~pro:poss #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound I~pro:sub know~v it's~pro yours~pro:poss but~conj what~pro:wh is~aux it~pro #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound is~aux it~pro nice~adj #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound mm~None #end~bound
+MOT #start~bound is~cop that~pro:dem good~adj #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound thank_you~co #end~bound
+CHI #start~bound xxx~None lady~n #end~bound
+INV #start~bound I~None I'm~pro:sub a~det bit~n far~adv away~adv #end~bound
+MOT #start~bound give~v dolly~adj some~qn #end~bound
+INV #start~bound was~cop that~rel lady~n #end~bound
+CHI #start~bound yeah~co #end~bound
+INV #start~bound yeah~co #end~bound
+INV #start~bound is~cop that~pro:dem what~pro:wh you~pro said~v #end~bound
+CHI #start~bound want~v #end~bound
+CHI #start~bound you~pro want~v #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound xxx~None eating~part #end~bound
+MOT #start~bound she's~pro:sub eating~part #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro she's~pro:sub eating~part then~adv:tem Becky~n:prop #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound pop~n in~adv #end~bound
+MOT #start~bound pop~v it~pro in~adv #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound pop~n in~adv #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound be~cop careful~co #end~bound
+CHI #start~bound uhhum~co #end~bound
+MOT #start~bound it's~pro nice~adj though~adv isn't~cop it~pro #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound me~pro:obj #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound me~pro:obj #end~bound
+MOT #start~bound you~pro #end~bound
+CHI #start~bound want~v #end~bound
+CHI #start~bound want~v #end~bound
+CHI #start~bound want~v #end~bound
+INV #start~bound no~co thanks~co #end~bound
+MOT #start~bound we'll~pro:sub just~adv eat~v it~pro between~prep us~pro:obj shan't~mod we~pro:sub #end~bound
+MOT #start~bound shall~mod we~pro:sub just~adv eat~v it~pro #end~bound
+INV #start~bound I've~pro:sub had~part breakfast~n #end~bound
+MOT #start~bound so~adv have~v we~pro:sub #end~bound
+INV #start~bound have~v you~pro #end~bound
+INV #start~bound you're~pro having~part second~n breakfast~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None heavy~adj #end~bound
+CHI #start~bound bit~n heavy~adj #end~bound
+MOT #start~bound it's~pro a~det bit~n heavy~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what's~pro:wh a~det bit~n heavy~adj #end~bound
+CHI #start~bound hard~adv #end~bound
+MOT #start~bound it's~pro hard~adj #end~bound
+CHI #start~bound ow~co #end~bound
+CHI #start~bound xxx~None heavy~adj #end~bound
+MOT #start~bound be~cop careful~n with~prep Sukie~n:prop please~co #end~bound
+CHI #start~bound heavy~adj #end~bound
+MOT #start~bound heavy~adj #end~bound
+CHI #start~bound sharp~adj #end~bound
+CHI #start~bound bit~n sharp~adj #end~bound
+MOT #start~bound they're~pro:sub a~det bit~n sharp~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound are~cop they~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound poor~adj Sukie_Cat~n:prop #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound Sukie~n:prop wants~v to~inf go~v to~inf sleep~v #end~bound
+MOT #start~bound do~mod you~pro think~v it's~pro night_night~co time~n for~prep him~pro:obj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound you~pro just~adv say~co night_night~co to~prep him~pro:obj #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound be~cop careful~co #end~bound
+CHI #start~bound Mum~n:prop #end~bound
+CHI #start~bound hurt~v it~pro #end~bound
+MOT #start~bound he's~pro:sub hurt~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co no~co #end~bound
+MOT #start~bound Mummy~n:prop kiss~n it~pro better~adj #end~bound
+MOT #start~bound is~cop that~rel okay~co #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound dinner~n #end~bound
+MOT #start~bound be~cop careful~n with~prep Sukie~n:prop #end~bound
+MOT #start~bound he's~pro:sub already~adv scratched~v you~pro #end~bound
+MOT #start~bound that'll~rel do~v now~adv #end~bound
+MOT #start~bound that'll~rel do~v Becky~n:prop #end~bound
+MOT #start~bound otherwise~adv you'll~pro disturb~v him~pro:obj #end~bound
+MOT #start~bound and~conj he~None hasn't~None he's~pro:sub been~cop out~adv all~qn night~n #end~bound
+MOT #start~bound he's~pro:sub got~v some~qn sleep~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod stand~v on~prep him~pro:obj #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound don't~mod do~v that~pro:dem #end~bound
+MOT #start~bound don't~mod do~v that~pro:dem #end~bound
+MOT #start~bound you're~pro a~det one~pro:indef aren't~aux you~pro #end~bound
+MOT #start~bound leave~n Sukie~n:prop alone~adv #end~bound
+MOT #start~bound you~pro can't~mod #end~bound
+MOT #start~bound come~None and~None come~v and~coord put~v some~qn lids~n on~prep these~det pots~n for~prep me~pro:obj look~co #end~bound
+MOT #start~bound here's~pro:exist your~pro:poss knife~n #end~bound
+MOT #start~bound want~v to~inf cut~v something~pro:indef up~prep #end~bound
+MOT #start~bound for~prep me~pro:obj #end~bound
+MOT #start~bound thank_you~co #end~bound
+CHI #start~bound um~None me~pro:obj #end~bound
+CHI #start~bound um~None finished~part #end~bound
+CHI #start~bound finished~part #end~bound
+MOT #start~bound she's~pro:sub finished~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound did~mod she~pro:sub enjoy~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound me~pro:obj #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound is~cop there~adv one~det:num more~pro:indef #end~bound
+MOT #start~bound put~v this~pro:dem on~adv #end~bound
+MOT #start~bound put~v that~pro:dem on~prep there~pro:dem #end~bound
+MOT #start~bound that's~pro:dem a~det girl~n #end~bound
+MOT #start~bound and~coord how~adv:wh manys~neo pots~n have~v you~pro got~v #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound two~det:num #end~bound
+CHI #start~bound three~det:num #end~bound
+MOT #start~bound have~aux you~pro got~v four~det:num #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound one~pro:indef #end~bound
+MOT #start~bound two~det:num #end~bound
+MOT #start~bound three~det:num #end~bound
+MOT #start~bound four~det:num #end~bound
+CHI #start~bound um~None sit~v down~adv #end~bound
+MOT #start~bound sit~v down~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh #end~bound
+MOT #start~bound here~adv #end~bound
+CHI #start~bound push~v me~pro:obj #end~bound
+MOT #start~bound please~co #end~bound
+MOT #start~bound don't~None don't~mod pick~v at~prep it~pro Becky~n:prop #end~bound
+MOT #start~bound xxx~None it's~pro a~det bit~n sore~n #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+CHI #start~bound xxx~None #end~bound
+INV #start~bound xxx~None #end~bound
+INV #start~bound thank_you~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound is~aux it~pro mashed~v potato~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~pro:dem what~pro:wh it~pro is~cop #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound www~None #end~bound
+INV #start~bound oh~co that's~None thank_you~co #end~bound
+INV #start~bound I'm~pro:sub full~adv now~adv #end~bound
+INV #start~bound thank_you~co #end~bound
+MOT #start~bound I~pro:sub think~v it's~pro all_gone~adj #end~bound
+MOT #start~bound is~aux it~pro all_gone~co #end~bound
+INV #start~bound what~pro:wh about~prep Mummy~n:prop #end~bound
+INV #start~bound does~mod Mummy~n:prop want~v some~qn #end~bound
+MOT #start~bound I~pro:sub think~v it's~pro all_gone~adj #end~bound
+MOT #start~bound is~aux it~pro all_gone~co #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound gone~part #end~bound
+MOT #start~bound gone~part #end~bound
+MOT #start~bound all_gone~co #end~bound
+CHI #start~bound pasta~n #end~bound
+CHI #start~bound gone~part #end~bound
+MOT #start~bound it's~pro pasta~n is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro like~v pasta~n #end~bound
+MOT #start~bound be~cop careful~n with~prep that~pro:dem #end~bound
+INV #start~bound thank_you~co #end~bound
+INV #start~bound thank_you~co #end~bound
+MOT #start~bound I~pro:sub think~v we've~pro:sub had~part enough~adj pasta~n #end~bound
+MOT #start~bound what~pro:wh about~adv something~pro:indef else~post #end~bound
+MOT #start~bound have~v you~pro got~v something~pro:indef else~post we~pro:sub can~mod eat~v now~adv #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound what's~pro:wh in~prep these~det saucepans~n here~adv #end~bound
+MOT #start~bound what's~pro:wh in~prep here~pro:dem #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+CHI #start~bound it's~pro water~n xxx~None #end~bound
+MOT #start~bound it's~pro what~pro:wh #end~bound
+CHI #start~bound water~n #end~bound
+MOT #start~bound it's~pro water~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound gosh~co #end~bound
+MOT #start~bound that's~pro:dem nice~adj #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound want~v #end~bound
+CHI #start~bound want~v #end~bound
+CHI #start~bound lady~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound I~pro:sub think~v that~pro:dem was~cop lucky~adj Becky~n:prop #end~bound
+MOT #start~bound because~conj you~pro willn't~mod do~v it~pro again~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound want~v to~inf cut~v up~prep some~qn buns~n for~prep us~pro:obj #end~bound
+MOT #start~bound can~mod I~pro:sub have~v a~det piece~n #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound not~neg off~prep the~det knife~n #end~bound
+MOT #start~bound give~v me~pro:obj a~det piece~n with~prep your~pro:poss hands~n #end~bound
+MOT #start~bound that's~pro:dem it~pro #end~bound
+MOT #start~bound that's~pro:dem nice~adj #end~bound
+CHI #start~bound xxx~None #end~bound
+INV #start~bound thank_you~co #end~bound
+MOT #start~bound you~pro have~v a~det piece~n now~adv #end~bound
+MOT #start~bound you~pro have~v a~det piece~n #end~bound
+MOT #start~bound is~aux it~pro good~adj #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound piece~n #end~bound
+CHI #start~bound another~qn piece~n #end~bound
+MOT #start~bound another~qn piece~n #end~bound
+INV #start~bound thank_you~co #end~bound
+CHI #start~bound buns~n #end~bound
+MOT #start~bound and~conj what's~pro:wh in~prep there~pro:dem #end~bound
+MOT #start~bound is~cop that~pro:dem cake~v #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound ice~n #end~bound
+MOT #start~bound it's~pro ice~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound ice~n nice~adj isn't~cop it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound mm~None #end~bound
+CHI #start~bound buns~n #end~bound
+MOT #start~bound buns~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co I'll~pro:sub hold~v it~pro then~adv:tem #end~bound
+MOT #start~bound do~mod you~pro want~v some~qn #end~bound
+MOT #start~bound eat~v it~pro #end~bound
+CHI #start~bound more~pro:indef #end~bound
+INV #start~bound thank_you~co #end~bound
+MOT #start~bound what's~pro:wh that~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound what~pro:wh is~cop that~pro:dem #end~bound
+CHI #start~bound ice~n #end~bound
+MOT #start~bound it's~pro more~qn ice~n #end~bound
+MOT #start~bound oh~co you~pro do~v like~co ice~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod pinch~v #end~bound
+MOT #start~bound that~rel hurts~v #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co Becky~n:prop #end~bound
+MOT #start~bound what~pro:wh are~aux you~pro doing~part #end~bound
+MOT #start~bound give~v me~pro:obj a~det big~adj cuddle~v #end~bound
+MOT #start~bound oh~co #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound oh~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co no~co #end~bound
+MOT #start~bound don't~mod pinch~v #end~bound
+CHI #start~bound do~mod it~pro #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound you'll~pro fall~v down~adv Becky~n:prop #end~bound
+CHI #start~bound a~None #end~bound
+MOT #start~bound oh~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound Sukie_Cat~n:prop #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound Sukie~n:prop #end~bound
+MOT #start~bound Sukie_Cat's~n:prop going~part out~adv for~prep a~det bit~v now~adv #end~bound
+MOT #start~bound I~pro:sub don't~mod blame~v him~pro:obj #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that's~pro:dem Humpty_Dumpty~n:prop that~rel goes~v like~prep that~pro:dem isn't~cop it~pro #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf do~v Humpty_Dumpty~n:prop #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound come~v on~adv then~adv:tem #end~bound
+MOT #start~bound sit~v down~adv #end~bound
+MOT #start~bound can~mod you~pro sing~v it~pro for~prep me~pro:obj #end~bound
+CHI #start~bound Humpty_Dumpty~n:prop xxx~None #end~bound
+MOT #start~bound Humpty_Dumpty~n:prop had~v a~det great~adj fall~n #end~bound
+MOT #start~bound all~qn the~det King's~n:prop horses~n and~coord all~qn the~det King's~n:prop men~n #end~bound
+MOT #start~bound couldn't~mod put~v Humpty~n:prop together~adv again~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound twinkle~n twinkle~n little~adj #end~bound
+CHI #start~bound ow~co #end~bound
+CHI #start~bound ow~co #end~bound
+CHI #start~bound ow~co #end~bound
+INV #start~bound what~pro:wh are~aux you~pro #end~bound
+MOT #start~bound oh~co Becky~n:prop #end~bound
+MOT #start~bound you're~pro going~part to~inf fall~v and~coord I~pro:sub can't~mod xxx~None #end~bound
+MOT #start~bound right~co #end~bound
+MOT #start~bound that'll~rel do~mod I~pro:sub think~v #end~bound
+MOT #start~bound that'll~None no~co #end~bound
+MOT #start~bound that'll~rel do~v because~conj you're~pro hurting~part Mummy~n:prop #end~bound
+MOT #start~bound right~co #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf do~v one~pro:indef of~prep these~det puzzles~n that~rel you~pro got~v out~adv before~adv #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf do~v one~pro:indef of~prep these~det puzzles~n #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound what's~adv:wh this~det one~pro:indef look~co #end~bound
+MOT #start~bound ride~n back~adv #end~bound
+CHI #start~bound I~pro:sub ride~v a~None back~adv #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod ride~v my~pro:poss back~n #end~bound
+MOT #start~bound just~adv one~pro:indef quick~adj go~v then~adv:tem #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound ride~n xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound how~adv:wh does~mod horsie~n go~v #end~bound
+CHI #start~bound neigh~on #end~bound
+MOT #start~bound don't~mod lean~v back~adv then~adv:tem for~conj goodness~n sake~n #end~bound
+MOT #start~bound how~adv:wh does~v he~pro:sub go~v again~adv #end~bound
+CHI #start~bound choo~on #end~bound
+MOT #start~bound that's~pro:dem a~det train~n #end~bound
+MOT #start~bound a~det horsie~n goes~v neigh~on #end~bound
+CHI #start~bound neigh~on #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+MOT #start~bound you~pro can~mod have~None have~v the~det horsie~n #end~bound
+MOT #start~bound have~v the~det man~n ride~n on~prep the~det horse~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod we~pro:sub do~v that~pro:dem #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf put~v him~pro:obj on~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound oh~co he~pro:sub wants~v to~inf go~v in~prep there~pro:dem does~v he~pro:sub #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound can't~mod do~v it~pro #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound where~adv:wh #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound two~det:num #end~bound
+CHI #start~bound three~det:num #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound no~co #end~bound
+CHI #start~bound a~None #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound leave~v that~pro:dem xxx~None #end~bound
+CHI #start~bound round~adv and~coord round~adv and~coord round~adv #end~bound
+CHI #start~bound the~det bus~n #end~bound
+CHI #start~bound round~adv and~coord round~adv #end~bound
+MOT #start~bound round~adv and~coord round~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound the~det wheels~n on~prep the~det bus~n go~v round~adv and~coord round~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound can~mod you~pro put~v the~det pieces~n together~adv #end~bound
+CHI #start~bound hard~adv #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound um~None eggs~n #end~bound
+MOT #start~bound eggs~n #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound do~mod you~pro like~v eggs~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound I'm~pro:sub not~neg sure~adj if~conj you~pro do~v like~prep eggs~n #end~bound
+CHI #start~bound pear~n #end~bound
+MOT #start~bound how~adv:wh do~mod you~pro know~v that's~pro:dem a~det pear~n #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound a~det pear~n #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound and~conj these~pro:dem are~cop grapes~n aren't~aux they~pro:sub #end~bound
+CHI #start~bound tiger~n #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf look~v at~prep the~det Duplo~n:prop #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound elephant~n #end~bound
+MOT #start~bound an~det elephant~n #end~bound
+CHI #start~bound oh~co fish~n #end~bound
+CHI #start~bound fish~n #end~bound
+MOT #start~bound these~pro:dem are~cop like~prep yours~pro:poss xxx~None but~conj more~qn different~adj ones~pro:indef #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound hippo~n #end~bound
+MOT #start~bound a~det hippo~n #end~bound
+MOT #start~bound yeah~co #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound tiger~n #end~bound
+CHI #start~bound that~rel a~det tiger~n #end~bound
+MOT #start~bound how~adv:wh does~v the~det tiger~n go~v #end~bound
+CHI #start~bound tiger~n #end~bound
+CHI #start~bound that~rel a~det tiger~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound and~conj who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound penguin~n there~adv #end~bound
+MOT #start~bound penguin~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound where's~adv:wh the~det penguin~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound oh~co he's~pro:sub in~prep there~pro:dem somewhere~adv is~aux he~pro:sub #end~bound
+INV #start~bound should~mod be~cop #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound here~adv he~pro:sub is~cop #end~bound
+CHI #start~bound giraffe~n #end~bound
+CHI #start~bound penguin~n #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound penguin~n #end~bound
+MOT #start~bound is~cop that~rel the~det Mummy~n:prop penguin~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co Becky~n:prop #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound a~det monkey~n #end~bound
+MOT #start~bound monkey~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound oh~co no~co #end~bound
+CHI #start~bound a~det giraffe~n #end~bound
+CHI #start~bound a~det giraffe~n #end~bound
+CHI #start~bound a~det giraffe~n #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+CHI #start~bound a~det giraffe~n #end~bound
+MOT #start~bound do~mod you~pro want~v him~pro:obj to~inf sit~v on~prep there~pro:dem #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro want~v me~pro:obj to~inf put~v him~pro:obj on~adv #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+CHI #start~bound a~det giraffe~n #end~bound
+CHI #start~bound a~det giraffe~n #end~bound
+CHI #start~bound giraffe~n #end~bound
+MOT #start~bound giraffe~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod we~pro:sub make~v a~det fence~n for~prep them~pro:obj #end~bound
+CHI #start~bound a~det xxx~None #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound a~det what~pro:wh #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound look~co #end~bound
+MOT #start~bound tiger's~n having~part a~det ride~n #end~bound
+MOT #start~bound can~mod you~pro make~v a~det fence~n with~prep those~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound window~n #end~bound
+MOT #start~bound it's~pro a~det window~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+MOT #start~bound what's~pro:wh that~adv Becky~n:prop #end~bound
+CHI #start~bound a~det banana~n #end~bound
+MOT #start~bound another~qn banana~n #end~bound
+MOT #start~bound do~mod you~pro think~v that's~pro:dem for~conj the~det monkey~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound because~conj monkeys~n like~prep bananas~n #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound now~adv what~pro:wh does~v he~pro:sub sit~v on~adv do~v you~pro think~v #end~bound
+CHI #start~bound a~det banana~n #end~bound
+CHI #start~bound a~det banana~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound a~det banana~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound banana~n #end~bound
+MOT #start~bound that's~pro:dem the~det banana~n look~co #end~bound
+MOT #start~bound what~pro:wh #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound what~pro:wh did~mod you~pro want~v #end~bound
+CHI #start~bound a~det banana~n #end~bound
+MOT #start~bound here's~pro:exist some~qn more~qn bananas~n look~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound banana~n #end~bound
+CHI #start~bound tip~n up~adv #end~bound
+MOT #start~bound you~pro want~v to~inf tip~v it~pro up~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co #end~bound
+CHI #start~bound noisy~adj #end~bound
+MOT #start~bound very~adv noisy~adj #end~bound
+MOT #start~bound xxx~None #end~bound
+CHI #start~bound very~adv noi~None noi~None noisy~adj #end~bound
+MOT #start~bound very~adv noisy~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~pro:dem what~pro:wh you~pro are~cop #end~bound
+CHI #start~bound egg~n #end~bound
+MOT #start~bound I~pro:sub wouldn't~mod eat~v it~pro like~v that~pro:dem #end~bound
+CHI #start~bound banana~n #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound more~pro:indef xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound a~det bag~n #end~bound
+CHI #start~bound bag~n Mum~n:prop #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound bag~n #end~bound
+MOT #start~bound a~det bag~n #end~bound
+MOT #start~bound a~det basket~n #end~bound
+MOT #start~bound it's~pro got~part the~det shopping~part in~adv #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem look~co #end~bound
+CHI #start~bound shopping~part #end~bound
+MOT #start~bound shopping~part #end~bound
+MOT #start~bound but~conj what~adv are~aux they~pro:sub #end~bound
+CHI #start~bound cake~n #end~bound
+MOT #start~bound oh~co cakes~v #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+MOT #start~bound pizza~n #end~bound
+CHI #start~bound pizza~n #end~bound
+MOT #start~bound and~conj some~qn biscuits~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+MOT #start~bound it's~pro food~n for~None for~prep Sukie_Cat~n:prop #end~bound
+MOT #start~bound and~conj more~qn biscuits~n look~co #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound all_gone~co now~adv #end~bound
+MOT #start~bound they're~pro:sub all_gone~adj now~adv are~cop they~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co dear~co #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod put~v it~pro in~prep your~pro:poss mouth~n #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+CHI #start~bound a~det pear~n #end~bound
+MOT #start~bound that's~pro:dem a~det pear~n #end~bound
+MOT #start~bound but~conj that's~pro:dem an~det orange~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound a~det pear~n #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound that's~pro:dem a~det tomato~n look~n Becky~n:prop #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro like~v tomato~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound mhm~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound egg~n #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound they're~pro:sub in~prep a~det box~n the~det eggs~n are~cop #end~bound
+MOT #start~bound have_to~mod:aux be~cop very~adv very~adv careful~n with~prep eggs~n though~adv #end~bound
+MOT #start~bound because~conj they~pro:sub break~v and~coord make~v a~det big~adj mess~n #end~bound
+CHI #start~bound egg~n #end~bound
+CHI #start~bound pears~n #end~bound
+MOT #start~bound pears~n #end~bound
+CHI #start~bound back~adv #end~bound
+MOT #start~bound are~cop you~pro putting~part them~pro:obj back~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+INV #start~bound whoops~co #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound careful~adj #end~bound
+CHI #start~bound dress~n on~adv #end~bound
+CHI #start~bound dress~n on~adv #end~bound
+CHI #start~bound dress~n on~adv #end~bound
+MOT #start~bound you~pro want~v it~pro on~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+MOT #start~bound it's~pro trousers~n isn't~cop it~pro look~co #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound shall~mod we~pro:sub take~v this~pro:dem off~adv then~adv:tem #end~bound
+MOT #start~bound shall~mod I~pro:sub do~v it~pro #end~bound
+CHI #start~bound um~None button~n #end~bound
+CHI #start~bound yes~co #end~bound
+CHI #start~bound off~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound tummy~n #end~bound
+CHI #start~bound big~adj tummy~n #end~bound
+MOT #start~bound has~v she~pro:sub got~v a~det big~adj tummy~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound has~v she~pro:sub #end~bound
+CHI #start~bound tickle~v #end~bound
+MOT #start~bound are~cop you~pro tickling~part her~pro:poss tummy~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound she's~pro:sub got~part a~det button~n look~co #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf tickle~v it~pro #end~bound
+CHI #start~bound tickle~on #end~bound
+CHI #start~bound putting~part trousers~n on~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound let's~v:obj put~v these~det trousers~n on~adv then~adv:tem #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound eyes~n #end~bound
+CHI #start~bound ear~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod take~v her~pro:poss pants~n:pt off~adv #end~bound
+CHI #start~bound banana~n #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound banana~n #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound got~v some~qn shoes~n somewhere~adv #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound you~pro want~v that~rel one~det:num on~adv now~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound but~conj we've~pro:sub just~adv put~v this~pro:dem on~adv #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound so~conj you~pro want~v this~det one~pro:indef off~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound xxx~None #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound do~mod you~pro think~v that~pro:dem would~mod look~v pretty~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound can~mod you~pro tell~v me~pro:obj what~pro:wh color~v the~det dress~n is~aux Becky~n:prop #end~bound
+CHI #start~bound yellow~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro not~neg yellow~adj #end~bound
+CHI #start~bound green~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro blue~adj isn't~cop it~pro the~det dress~n #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound red~adj #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+CHI #start~bound bag~n #end~bound
+MOT #start~bound are~cop you~pro going~part somewhere~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound are~cop you~pro going~part on~prep your~pro:poss holidays~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound are~cop you~pro #end~bound
+MOT #start~bound with~prep your~pro:poss bag~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound byebye~co #end~bound
+INV #start~bound byebye~co #end~bound
+MOT #start~bound see~co you~pro soon~adv #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound see~co you~pro soon~adv #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf come~v back~adv in~prep here~pro:dem now~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound come~v on~adv then~adv:tem #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound oh~co dear~co #end~bound
+CHI #start~bound egg~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound you've~pro dropped~part the~det eggs~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound are~cop they~pro:sub broken~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound are~cop they~pro:sub #end~bound
+MOT #start~bound oh~co dear~co #end~bound
+MOT #start~bound bring~v them~pro:obj back~adv in~prep here~pro:dem Becky~n:prop #end~bound
+MOT #start~bound that's~pro:dem it~pro #end~bound
+MOT #start~bound right~co #end~bound
+MOT #start~bound there~adv #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound there's~pro:exist a~det hattie~n for~prep dolly~adj behind~adv you~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v this~det hattie~n on~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v that'll~rel go~v on~adv #end~bound
+MOT #start~bound she's~pro:sub got~part a~det dress~n on~prep there~pro:dem #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound hattie~n #end~bound
+MOT #start~bound yeah~co but~conj what's~pro:wh this~pro:dem on~prep top~n #end~bound
+CHI #start~bound um~None xxx~None #end~bound
+MOT #start~bound it's~pro a~det bobble~n #end~bound
+MOT #start~bound on~prep top~n of~prep the~det hat~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound hands~n #end~bound
+CHI #start~bound hands~n #end~bound
+MOT #start~bound handle~n #end~bound
+MOT #start~bound it's~pro handle~n #end~bound
+CHI #start~bound egg~n #end~bound
+CHI #start~bound hard~adv #end~bound
+MOT #start~bound they're~pro:sub hard~adv are~cop they~pro:sub the~det eggs~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound is~cop that~pro:dem nice~adj to~inf eat~v that~pro:dem orange~adj #end~bound
+MOT #start~bound oh~co no~co #end~bound
+MOT #start~bound it's~pro got~v skin~n on~prep it~pro look~co #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound egg~n #end~bound
+MOT #start~bound that's~pro:dem a~det tin~n of~prep corn~n #end~bound
+MOT #start~bound and~conj there's~pro:exist a~det tin~n of~prep minced~part beef~n here~adv #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound ball~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound it's~pro not~neg a~det ball~n #end~bound
+MOT #start~bound it's~pro an~det orange~n #end~bound
+MOT #start~bound can~mod you~pro say~v orange~n #end~bound
+CHI #start~bound orange~adj #end~bound
+MOT #start~bound orange~adj #end~bound
+CHI #start~bound hattie~n off~adv #end~bound
+MOT #start~bound hattie~n off~adv #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf put~v it~pro on~adv #end~bound
+MOT #start~bound this~pro:dem is~cop all~qn the~det shopping~part #end~bound
+MOT #start~bound and~conj the~det cat~n look~co #end~bound
+MOT #start~bound do~mod you~pro think~v it~pro looks~v a~det bit~n like~rel Sukie~n:prop #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound who~pro:wh is~aux this~det #end~bound
+CHI #start~bound Sukie_Cat~n:prop #end~bound
+MOT #start~bound is~aux it~pro cat~n #end~bound
+MOT #start~bound it's~pro Sukie_cat~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound do~mod you~pro like~v pears~n Becky~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro like~v that~adv pear~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound don't~mod put~v them~pro:obj in~prep your~pro:poss mouth~n #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound you're~None not~None it's~pro not~neg a~det real~adj pear~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod put~v it~pro in~prep your~pro:poss mouth~n #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound look~v at~prep the~det monkey~n #end~bound
+MOT #start~bound he's~pro:sub standing~part on~prep the~det fence~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound one~pro:indef #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound one~pro:indef #end~bound
+MOT #start~bound do~mod I~pro:sub want~v one~pro:indef #end~bound
+MOT #start~bound thank_you~co #end~bound
+MOT #start~bound it's~pro nice~adj #end~bound
+CHI #start~bound top~adj #end~bound
+MOT #start~bound huh~co #end~bound
+CHI #start~bound top~adj #end~bound
+MOT #start~bound top~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound top~n of~prep what~pro:wh #end~bound
+CHI #start~bound monkey~n top~n #end~bound
+MOT #start~bound oh~co the~det monkey's~n on~prep top~n #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound sit~v him~pro:obj on~prep top~n of~prep the~det tiger~n #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+CHI #start~bound more~pro:indef xxx~None #end~bound
+CHI #start~bound more~pro:indef xxx~None #end~bound
+CHI #start~bound more~pro:indef xxx~None #end~bound
+MOT #start~bound more~adv what~pro:wh #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound more~pro:indef xxx~None #end~bound
+CHI #start~bound gone~part now~adv #end~bound
+MOT #start~bound what's~pro:wh gone~part #end~bound
+CHI #start~bound more~pro:indef xxx~None #end~bound
+CHI #start~bound gone~part now~adv #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro you're~pro looking~part for~prep Becky~n:prop #end~bound
+CHI #start~bound more~pro:indef xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound mouse~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound rice~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound bye~co #end~bound
+CHI #start~bound shopping~part away~adv #end~bound
+MOT #start~bound shopping~part away~adv #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound put~v the~det eggs~n in~adv #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound xxx~None hat~n #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound you~pro want~v the~det hat~n on~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound look~co #end~bound
+CHI #start~bound walk~n #end~bound
+INV #start~bound walk~n #end~bound
+MOT #start~bound is~cop she~pro:sub walking~part is~aux she~pro:sub #end~bound
+INV #start~bound have~v you~pro got~v enough~adj room~n there~adv #end~bound
+MOT #start~bound where~adv:wh are~aux you~pro going~part #end~bound
+CHI #start~bound xxx~None shop~n #end~bound
+MOT #start~bound you're~None going~None you're~pro going~part shopping~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co right~n #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf come~v back~adv now~adv #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound have~v you~pro been~aux shopping~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what've~rel you~pro bought~v #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound more~adv what~pro:wh #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound shopping~part #end~bound
+MOT #start~bound you~pro went~v shopping~n:gerund #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound you~pro have~v bought~v a_lot_of~qn things~n #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf tell~v me~pro:obj what~pro:wh you've~pro bought~part #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound you've~pro bought~v what~pro:wh #end~bound
+CHI #start~bound what's~pro:wh that~pro:dem #end~bound
+MOT #start~bound that's~pro:dem cat~n #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound Sukie's~n:prop dinner~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound you've~pro bought~v some~qn grapes~n and~coord some~qn eggs~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~conj some~qn bananas~n #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound for~prep eating~n:gerund #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound and~conj you've~pro bought~part an~det orange~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~conj some~qn cakes~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound some~qn cakes~n with~prep cherrys~n on~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro like~v cherrys~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound they're~pro:sub nice~adj aren't~aux they~pro:sub #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound thank_you~co #end~bound
+CHI #start~bound want~v #end~bound
+INV #start~bound thank_you~co #end~bound
+MOT #start~bound and~conj some~qn fish~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~conj some~qn more~qn cakes~n #end~bound
+MOT #start~bound gosh~co you've~pro bought~v a_lot_of~qn cakes~n Becky~n:prop #end~bound
+INV #start~bound more~qn cakes~n #end~bound
+MOT #start~bound some~qn more~qn cakes~n as_well~adv #end~bound
+CHI #start~bound orange~adj #end~bound
+MOT #start~bound an~det orange~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound and~conj you~pro bought~v some~qn biscuits~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~conj some~qn more~qn biscuits~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~conj some~qn more~qn biscuits~n #end~bound
+MOT #start~bound what~pro:wh a_lot_of~qn biscuits~n #end~bound
+CHI #start~bound more~qn pears~n #end~bound
+MOT #start~bound more~qn pears~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound that's~pro:dem good~adj #end~bound
+CHI #start~bound bouncy~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro an~det orange~n #end~bound
+MOT #start~bound not~neg a~det ball~n #end~bound
+CHI #start~bound a~det ball~n #end~bound
+INV #start~bound it's~pro not~neg a~det ball~n #end~bound
+INV #start~bound it's~pro an~det orange~n #end~bound
+CHI #start~bound ball~n #end~bound
+INV #start~bound no~co #end~bound
+MOT #start~bound it's~pro an~det orange~n #end~bound
+CHI #start~bound ball~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro not~neg a~det ball~n #end~bound
+INV #start~bound it~pro looks~v like~prep a~det ball~n but~conj it's~pro actually~adv an~det orange~n #end~bound
+INV #start~bound I~pro:sub suppose~v it~pro can~mod be~cop a~det ball~n if~conj you~pro want~v it~pro to~inf be~cop #end~bound
+INV #start~bound what's~pro:wh that~pro:dem #end~bound
+CHI #start~bound ball~n #end~bound
+INV #start~bound that's~pro:dem not~neg a~det ball~n #end~bound
+INV #start~bound that's~pro:dem not~neg even~v the~det right~adj shape~n for~prep a~det ball~n #end~bound
+CHI #start~bound ball~n #end~bound
+MOT #start~bound they're~pro:sub not~neg balls~n Becky~n:prop #end~bound
+INV #start~bound ball~n as_well~adv #end~bound
+CHI #start~bound pears~n #end~bound
+INV #start~bound pears~n #end~bound
+INV #start~bound yeah~co #end~bound
+CHI #start~bound a~det ball~n #end~bound
+INV #start~bound no~co #end~bound
+INV #start~bound what's~pro:wh that~pro:dem #end~bound
+CHI #start~bound ball~n #end~bound
+INV #start~bound bananas~n #end~bound
+CHI #start~bound ball~n #end~bound
+INV #start~bound now~adv I~pro:sub know~v you're~pro fibbing~part now~adv #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf play~v with~prep the~det zoo~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound look~v Mummy's~n:prop made~v a~det gate~n #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound a~det gate~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf come~v and~coord put~v some~qn animals~n in~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound a~det monkey~n in~adv #end~bound
+MOT #start~bound monkey~n in~adv #end~bound
+MOT #start~bound do~mod you~pro want~v the~det monkey~n to~inf stand~v on~prep the~det fence~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod I~pro:sub put~v him~pro:obj on~prep the~det fence~n #end~bound
+MOT #start~bound there~adv he~pro:sub goes~v #end~bound
+MOT #start~bound isn't~cop that~pro:dem clever~adj #end~bound
+CHI #start~bound a~det whale~n #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound and~conj the~det whale~n goes~v in~adv #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound whale~n xxx~None gate~n #end~bound
+MOT #start~bound here~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound hello~co #end~bound
+CHI #start~bound hello~co #end~bound
+MOT #start~bound hello~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound more~qn fence~n #end~bound
+CHI #start~bound more~qn fence~n #end~bound
+MOT #start~bound more~qn fence~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound more~qn gate~n #end~bound
+CHI #start~bound more~qn gate~n #end~bound
+MOT #start~bound more~qn gate~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound tunnel~n #end~bound
+CHI #start~bound tunnel~n #end~bound
+MOT #start~bound a~det tunnel~n #end~bound
+CHI #start~bound tunnel~n #end~bound
+CHI #start~bound tunnel~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound more~pro:indef #end~bound
+CHI #start~bound animals~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound here~adv you~pro are~cop #end~bound
+MOT #start~bound there's~pro:exist another~qn gate~n #end~bound
+MOT #start~bound it's~pro rather~adv a~det small~adj gate~n though~adv #end~bound
+CHI #start~bound hello~co #end~bound
+MOT #start~bound hello~co #end~bound
+CHI #start~bound doing~part #end~bound
+CHI #start~bound doing~part #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub doing~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound he's~pro:sub going~part through~prep the~det gate~n look~co #end~bound
+MOT #start~bound hello~co #end~bound
+CHI #start~bound eye~n #end~bound
+CHI #start~bound eye~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound shall~mod the~det penguin~n come~v through~adv #end~bound
+MOT #start~bound oh~co no~co #end~bound
+MOT #start~bound he~pro:sub can't~mod fit~v #end~bound
+MOT #start~bound sideways~adv he~pro:sub can~mod look~co #end~bound
+MOT #start~bound hello~co #end~bound
+MOT #start~bound and~conj the~det whale~n look~n is~aux coming~part through~adv #end~bound
+MOT #start~bound hello~co #end~bound
+CHI #start~bound and~conj the~det giraffe~n too~post #end~bound
+CHI #start~bound giraffe~n too~post #end~bound
+CHI #start~bound giraffe~n too~post #end~bound
+MOT #start~bound they're~pro:sub all~adv in~prep there~pro:dem aren't~cop they~pro:sub #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v the~det giraffe~n can~mod get~v in~prep that~det way~n look~co #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound hello~co #end~bound
+CHI #start~bound eye~n #end~bound
+CHI #start~bound eyes~n #end~bound
+CHI #start~bound eye~n #end~bound
+MOT #start~bound eyes~n #end~bound
+MOT #start~bound I~pro:sub don't~mod know~v what~None what~pro:wh they~pro:sub belong~v to~prep #end~bound
+CHI #start~bound on~adv #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound let's~v:obj put~v them~pro:obj up~prep there~pro:dem #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound and~conj more~qn eye~n #end~bound
+MOT #start~bound so~adv many~qn animals~n in~prep here~pro:dem #end~bound
+MOT #start~bound is~cop that~rel all~qn of~prep them~pro:obj #end~bound
+MOT #start~bound can~mod you~pro find~v any~qn more~adv animals~n to~inf put~v in~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound can~mod you~pro #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound not~neg from~prep over~adv there~pro:dem #end~bound
+MOT #start~bound find~v them~pro:obj from~prep here~pro:dem #end~bound
+MOT #start~bound can~mod you~pro see~v any~qn more~pro:indef #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound Tig~None there's~pro:exist one~pro:indef #end~bound
+MOT #start~bound take~None take~v him~pro:obj off~adv #end~bound
+MOT #start~bound put~v him~pro:obj in~adv #end~bound
+MOT #start~bound if~conj there's~pro:exist room~n #end~bound
+MOT #start~bound that's~pro:dem it~pro #end~bound
+CHI #start~bound baby~n lion~n #end~bound
+MOT #start~bound it's~pro the~det baby~n lion~n is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound he's~pro:sub a~det tiger~n isn't~cop he~pro:sub #end~bound
+MOT #start~bound and~coord what~pro:wh about~prep him~pro:obj #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound Pingu~n:prop #end~bound
+MOT #start~bound Pingu~n:prop #end~bound
+CHI #start~bound Pingu~n:prop #end~bound
+CHI #start~bound hello~co #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound is~cop that~rel everybody~pro:indef #end~bound
+MOT #start~bound I~pro:sub think~v it~pro is~cop #end~bound
+MOT #start~bound look~v at~prep that~det Becky~n:prop #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound is~cop that~pro:dem good~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound it's~pro a~det zoo~n #end~bound
+MOT #start~bound can~mod you~pro say~v zoo~n #end~bound
+CHI #start~bound zoo~n #end~bound
+MOT #start~bound zoo~n #end~bound
+MOT #start~bound say~v it~pro #end~bound
+CHI #start~bound zoo~n #end~bound
+MOT #start~bound zoo~n #end~bound
+MOT #start~bound that's~pro:dem good~adj #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound in~adv #end~bound
+MOT #start~bound in~adv #end~bound
+MOT #start~bound what's~pro:wh going~part in~adv #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound what~pro:wh #end~bound
+MOT #start~bound this~pro:dem #end~bound
+MOT #start~bound is~cop that~rel their~pro:poss dinner~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there's~pro:exist some~qn bananas~n somewhere~adv #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound is~cop that~rel some~qn hay~n or~coord something~pro:indef for~prep them~pro:obj #end~bound
+MOT #start~bound where~adv:wh are~cop those~det bananas~n #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+CHI #start~bound shut~v door~n #end~bound
+MOT #start~bound shut~v the~det door~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound like~prep that~pro:dem #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound um~None hard~adv #end~bound
+CHI #start~bound hard~adv #end~bound
+MOT #start~bound oh~co I~pro:sub don't~mod think~v he'll~pro:sub fit~v in~prep there~pro:dem Becky~n:prop #end~bound
+MOT #start~bound do~mod you~pro want~v me~pro:obj to~inf have~v a~det go~v #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there~adv look~co #end~bound
+MOT #start~bound okay~co #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound a~det fishy~adj #end~bound
+MOT #start~bound a~det fishy~adj #end~bound
+MOT #start~bound let's~v:obj put~v that~pro:dem in~adv as_well~adv #end~bound
+CHI #start~bound hello~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound hello~co xxx~None #end~bound
+CHI #start~bound hippo~n #end~bound
+CHI #start~bound hippo~n #end~bound
+MOT #start~bound hippo~n #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound oh~co a~det xxx~None #end~bound
+CHI #start~bound a~det xxx~None #end~bound
+CHI #start~bound looking~part at~prep me~pro:obj #end~bound
+INV #start~bound pardon~co #end~bound
+CHI #start~bound I~pro:sub xxx~None #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound stand~n up~adv #end~bound
+MOT #start~bound they're~pro:sub standing~part up~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound who's~rel standing~part up~adv #end~bound
+CHI #start~bound xxx~None me~pro:obj #end~bound
+CHI #start~bound stand~n up~adv #end~bound
+MOT #start~bound who's~rel standing~part up~adv #end~bound
+CHI #start~bound me~pro:obj #end~bound
+MOT #start~bound you're~pro standing~part up~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+CHI #start~bound a~det pear~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound a~det ball~n #end~bound
+INV #start~bound orange~adj #end~bound
+CHI #start~bound a~det ball~n #end~bound
+INV #start~bound orange~adj #end~bound
+MOT #start~bound eggs~n #end~bound
+CHI #start~bound what~pro:wh #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound pear~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound come~v out~adv #end~bound
+MOT #start~bound what~pro:wh do~mod you~pro want~v to~inf do~v now~adv #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf put~v all~qn the~det pieces~n back~adv in~prep that~det box~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~rel a~det good~adj idea~n #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound come~v on~adv then~adv:tem #end~bound
+MOT #start~bound let's~v:obj leave~v the~det animals~n here~adv #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound bananas~n #end~bound
+CHI #start~bound um~None bag~n #end~bound
+CHI #start~bound gone~part now~adv #end~bound
+MOT #start~bound the~det bag~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh bag~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound what~pro:wh #end~bound
+MOT #start~bound this~det bag~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound it's~pro a~det basket~n #end~bound
+CHI #start~bound a~det basket~n #end~bound
+CHI #start~bound bye~co #end~bound
+MOT #start~bound bye~co #end~bound
+MOT #start~bound are~cop you~pro going~part again~adv #end~bound
+MOT #start~bound where~adv:wh are~aux you~pro going~part #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound you're~pro going~part where~adv:wh #end~bound
+INV #start~bound where~adv:wh are~aux you~pro going~part #end~bound
+INV #start~bound let~v me~pro:obj move~v out~prep the~det way~n and~coord xxx~None #end~bound
+CHI #start~bound bye~co #end~bound
+MOT #start~bound bye~co #end~bound
+MOT #start~bound where~adv:wh are~aux you~pro Becky~n:prop #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound where~adv:wh are~aux you~pro #end~bound
+CHI #start~bound here~adv #end~bound
+MOT #start~bound you're~pro here~adv are~aux you~pro #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf bring~v the~det shopping~part back~adv #end~bound
+MOT #start~bound you~pro have~v bought~v a_lot_of~qn things~n #end~bound
+MOT #start~bound did~v that~det cost~v you~pro lots_of~qn pennys~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound did~v it~pro #end~bound
+CHI #start~bound mhm~co #end~bound
+CHI #start~bound shopping~part #end~bound
+MOT #start~bound shopping~part bag~n #end~bound
+CHI #start~bound bye~co #end~bound
+CHI #start~bound bye~co #end~bound
+MOT #start~bound bye~co #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod go~v outside~adv yet~adv #end~bound
+MOT #start~bound we'll~pro:sub go~v outside~adv in~prep a~det bit~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+INV #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod go~v outside~adv #end~bound
+MOT #start~bound no~co no~co no~co no~co #end~bound
+INV #start~bound hello~co #end~bound
+MOT #start~bound in~prep you~pro go~v #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound egg~n #end~bound
+MOT #start~bound egg~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound eggs~n #end~bound
+MOT #start~bound mhm~co #end~bound
+MOT #start~bound lovely~adj #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound it's~pro what~pro:wh #end~bound
+CHI #start~bound here~adv you~pro go~v #end~bound
+INV #start~bound thank_you~co #end~bound
+INV #start~bound another~qn egg~n #end~bound
+MOT #start~bound mhm~co #end~bound
+MOT #start~bound thank_you~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound you~pro don't~mod eat~v eggs~n like~prep that~pro:dem #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound it's~pro nice~adj is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound good~adj #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound a~det ball~n #end~bound
+INV #start~bound that's~pro:dem all~pro:indef you're~pro gonna~part going~part to~inf say~v to~prep me~pro:obj isn't~cop it~pro #end~bound
+INV #start~bound that's~pro:dem a~det ball~n #end~bound
+INV #start~bound it~pro rolls~v like~prep a~det ball~n doesn't~mod it~pro #end~bound
+INV #start~bound play~n rugby~n with~prep that~pro:dem #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound you're~pro not~neg throwing~part eggs~n #end~bound
+MOT #start~bound you~pro know~v eggs~n break~n Becky~n:prop #end~bound
+MOT #start~bound they~pro:sub make~v a~det mess~n don't~mod they~pro:sub #end~bound
+CHI #start~bound biscuit~n #end~bound
+MOT #start~bound biscuit~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound ice~n #end~bound
+MOT #start~bound ice~n #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound where's~adv:wh the~det ice~n #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound in~prep there~pro:dem is~aux it~pro #end~bound
+MOT #start~bound show~v me~pro:obj #end~bound
+MOT #start~bound which~rel one's~pro:indef the~det ice~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound oh~co it's~pro that~det one~pro:indef is~aux it~pro #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound mhm~co #end~bound
+MOT #start~bound that~rel looks~v a~det nice~adj ice~n #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound more~pro:indef #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound all_gone~co #end~bound
+CHI #start~bound mhm~co #end~bound
+CHI #start~bound shopping~part #end~bound
+INV #start~bound I~pro:sub know~v #end~bound
+MOT #start~bound train~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound can~mod you~pro turn~v the~det key~n #end~bound
+CHI #start~bound I~pro:sub turn~v #end~bound
+MOT #start~bound you~pro turn~v it~pro then~adv:tem #end~bound
+MOT #start~bound there's~pro:exist your~pro:poss camera~n #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound are~cop you~pro taking~part a~det photo~n #end~bound
+INV #start~bound say~v cheese~n #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound can~mod I~pro:sub take~v one~det:num of~prep you~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound smile~n #end~bound
+MOT #start~bound going~part to~inf do~v a~det big~adj pose~n for~prep me~pro:obj #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound turtle~n #end~bound
+MOT #start~bound pardon~co #end~bound
+MOT #start~bound oh~co turtle~n #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf put~v the~det shapes~n in~prep #end~bound
+CHI #start~bound turtle~n #end~bound
+MOT #start~bound well~co put~v your~pro:poss key~n in~adv #end~bound
+MOT #start~bound shall~mod we~pro:sub take~v these~det out~adv #end~bound
+MOT #start~bound shall~mod I~pro:sub take~v them~pro:obj out~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound you~pro see~v if~conj you~pro can~mod put~v them~pro:obj in~adv now~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v that~rel goes~v in~prep there~pro:dem does~mod it~pro #end~bound
+MOT #start~bound try~v this~det one~pro:indef #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it~pro does~mod go~v in~prep there~pro:dem #end~bound
+MOT #start~bound try~v again~adv #end~bound
+MOT #start~bound that's~pro:dem it~pro #end~bound
+CHI #start~bound that~det one~pro:indef #end~bound
+MOT #start~bound that~det one~pro:indef #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that's~pro:dem right~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it~pro does~mod go~v in~prep there~pro:dem Becky~n:prop #end~bound
+MOT #start~bound there~adv you~pro are~cop #end~bound
+MOT #start~bound now~adv where~rel does~mod that~adv one~pro:indef go~v #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound and~conj that~rel one~pro:indef #end~bound
+MOT #start~bound where~adv:wh does~mod that~adv one~pro:indef go~v #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound that's~pro:dem good~adj #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound push~v it~pro in~adv #end~bound
+MOT #start~bound it's~pro stuck~part #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound and~conj that~rel one~pro:indef #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound where~adv:wh does~mod that~adv one~pro:indef go~v #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it~pro doesn't~mod go~v in~prep there~pro:dem #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound clever~adj girl~n #end~bound
+INV #start~bound clever~adj #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound more~pro:indef #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound you~pro tip~v them~pro:obj out~adv then~adv:tem #end~bound
+MOT #start~bound that's~pro:dem it~pro #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound that~rel go~v #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound xxx~None hole~n for~prep it~pro #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound no~co no~co no~co no~co no~co #end~bound
+MOT #start~bound try~v that~rel one~pro:indef #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co no~co no~co #end~bound
+MOT #start~bound that's~pro:dem right~adv Becky~n:prop #end~bound
+MOT #start~bound try~v again~adv #end~bound
+CHI #start~bound in~prep here~pro:dem #end~bound
+MOT #start~bound there~adv they~pro:sub are~cop #end~bound
+CHI #start~bound one~pro:indef #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound try~v that~rel one~pro:indef #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound does~mod it~pro go~v in~prep there~pro:dem #end~bound
+CHI #start~bound a~None that~det one~pro:indef #end~bound
+MOT #start~bound no~co no~co no~co #end~bound
+MOT #start~bound it~pro does~mod go~v in~prep there~pro:dem Becky~n:prop #end~bound
+MOT #start~bound try~v again~adv #end~bound
+MOT #start~bound that's~pro:dem right~adv #end~bound
+CHI #start~bound yes~co #end~bound
+CHI #start~bound that~rel there~adv #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that~pro:dem doesn't~mod go~v in~prep there~pro:dem #end~bound
+MOT #start~bound you've~pro just~adv put~v the~det blue~n one~det:num in~prep there~pro:dem haven't~aux you~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound square~adj one~pro:indef #end~bound
+MOT #start~bound try~v another~qn hole~n #end~bound
+MOT #start~bound that's~pro:dem it~pro #end~bound
+MOT #start~bound try~v that~pro:dem hole~v #end~bound
+MOT #start~bound that's~pro:dem a~det good~adj girl~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that~pro:dem doesn't~mod go~v in~prep there~pro:dem does~mod it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it~pro doesn't~mod #end~bound
+MOT #start~bound try~v this~det hole~n here~adv #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it~pro does~mod #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+CHI #start~bound this~det go~v #end~bound
+MOT #start~bound where~adv:wh does~mod that~adv go~v #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound where~adv:wh does~mod it~pro go~v #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound does~mod it~pro go~v in~prep there~pro:dem #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it~pro does~mod go~v in~prep there~pro:dem #end~bound
+MOT #start~bound yes~co it~pro does~mod #end~bound
+MOT #start~bound try~v again~adv #end~bound
+CHI #start~bound want~v #end~bound
+MOT #start~bound oh~co thank_you~co #end~bound
+MOT #start~bound is~cop that~rel my~pro:poss nose~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound put~v it~pro in~prep the~det hole~n then~adv:tem #end~bound
+MOT #start~bound that's~pro:dem right~adv #end~bound
+MOT #start~bound that~rel goes~v in~prep there~pro:dem doesn't~mod it~pro #end~bound
+MOT #start~bound put~v that~pro:dem last~adj one~pro:indef in~adv #end~bound
+MOT #start~bound is~cop that~rel your~pro:poss nose~n #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound have~aux you~pro got~v a~det big~adj nose~n #end~bound
+MOT #start~bound have~v you~pro #end~bound
+CHI #start~bound mhm~co #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+INV #start~bound no~co #end~bound
+MOT #start~bound try~v this~det hole~n #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it~pro does~mod #end~bound
+MOT #start~bound you're~pro not~neg trying~part very~adv hard~adv #end~bound
+MOT #start~bound there~adv you~pro are~cop #end~bound
+MOT #start~bound push~v it~pro in~adv #end~bound
+MOT #start~bound push~v it~pro in~adv #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound all~post done~part #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf wind~v your~pro:poss train~n up~prep now~adv then~adv:tem #end~bound
+MOT #start~bound let's~v:obj see~v how~adv:wh it~pro goes~v #end~bound
+MOT #start~bound here's~pro:exist the~det key~n #end~bound
+CHI #start~bound train~n #end~bound
+MOT #start~bound what's~pro:wh that~pro:dem #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem Becky~n:prop #end~bound
+CHI #start~bound road~n #end~bound
+MOT #start~bound it's~pro a~det road~n is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound that's~pro:dem where~rel the~det table's~n been~cop #end~bound
+MOT #start~bound it's~pro made~part a~det mark~n on~prep the~det carpet~n #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf wind~v your~pro:poss train~n up~adv and~coord make~v it~pro go~v along~prep the~det road~n then~adv:tem #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there's~pro:exist the~det key~n #end~bound
+CHI #start~bound whoops~co #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound whoops~co #end~bound
+CHI #start~bound brumm~on #end~bound
+CHI #start~bound whoops~co #end~bound
+CHI #start~bound wind~v it~pro #end~bound
+INV #start~bound wind~v it~pro #end~bound
+MOT #start~bound well~co why~adv:wh don't~mod you~pro ask~v Mummy~n:prop to~inf wind~v it~pro if~conj you~pro can't~mod do~v it~pro #end~bound
+MOT #start~bound you~pro can~mod wind~v it~pro can't~mod you~pro #end~bound
+MOT #start~bound you~pro may~mod have_to~mod:aux move~v your~pro:poss feet~n Becky~n:prop #end~bound
+MOT #start~bound move~v your~pro:poss feet~n #end~bound
+MOT #start~bound stand~n up~adv #end~bound
+MOT #start~bound are~cop you~pro ready~v #end~bound
+MOT #start~bound are~cop you~pro ready~v #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound oh~co #end~bound
+INV #start~bound oh~co #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound oh~co #end~bound
+INV #start~bound oh~co #end~bound
+INV #start~bound it's~pro fallen~part over~adv #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf wind~v it~pro up~adv #end~bound
+INV #start~bound wind~v it~pro up~adv then~adv:tem #end~bound
+INV #start~bound it'll~pro go~v properly~adv #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound give~v me~pro:obj the~det key~n then~adv:tem and~conj I'll~pro:sub do~v it~pro #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound camera~n #end~bound
+CHI #start~bound I~pro:sub camera~n #end~bound
+INV #start~bound your~pro:poss camera~n #end~bound
+INV #start~bound yes~co #end~bound
+INV #start~bound I~pro:sub know~v #end~bound
+MOT #start~bound that's~pro:dem the~det wrong~adj way~n round~adv #end~bound
+MOT #start~bound that's~pro:dem the~det wrong~adj way~n round~adv #end~bound
+MOT #start~bound it's~pro the~det wrong~adj way~n round~adv #end~bound
+MOT #start~bound right~co #end~bound
+MOT #start~bound are~cop you~pro ready~adj to~inf watch~v the~det train~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound it's~pro ready~adj to~inf go~v #end~bound
+MOT #start~bound move~v your~pro:poss feet~n #end~bound
+MOT #start~bound ready~adj #end~bound
+MOT #start~bound oh~co #end~bound
+CHI #start~bound I~pro:sub go~v there~adv #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound I~pro:sub xxx~None #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound you~pro do~v what~adv Becky~n:prop #end~bound
+MOT #start~bound what~pro:wh did~mod you~pro say~v #end~bound
+CHI #start~bound I~pro:sub xxx~None #end~bound
+CHI #start~bound I~pro:sub xxx~None toys~v #end~bound
+MOT #start~bound your~pro:poss toys~n #end~bound
+CHI #start~bound no~co #end~bound
+CHI #start~bound I~pro:sub xxx~None #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound I~pro:sub xxx~None saucepan~n #end~bound
+MOT #start~bound a~det saucepan~n #end~bound
+CHI #start~bound I~pro:sub sit~v down~adv #end~bound
+MOT #start~bound sit~v down~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound you~None want~None why~adv:wh don't~mod you~pro give~v dolly~adj some~qn dinner~n #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound on~prep the~det chair~n #end~bound
+CHI #start~bound no~co #end~bound
+CHI #start~bound I~pro:sub get~v in~adv #end~bound
+CHI #start~bound dinner~n #end~bound
+CHI #start~bound I~pro:sub dinner~n #end~bound
+MOT #start~bound you~pro want~v your~pro:poss dinner~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+MOT #start~bound well~co you~pro sit~v on~prep the~det chair~n then~adv:tem #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound right~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf make~v some~None some~qn mashed~v potato~n #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound er~None some~qn buns~n #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~qn buns~n #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+CHI #start~bound spoon~n gone~part #end~bound
+MOT #start~bound what~pro:wh about~prep some~qn cake~n #end~bound
+CHI #start~bound spoon~n gone~part #end~bound
+MOT #start~bound the~det spoon's~n gone~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro here~adv the~det spoon~n look~co #end~bound
+MOT #start~bound this~det spoon~n #end~bound
+CHI #start~bound mine~n spoon~n #end~bound
+MOT #start~bound oh~co your~pro:poss spoon~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound mhm~co #end~bound
+MOT #start~bound it~pro has~aux gone~part hasn't~aux it~pro #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound oh~co Becky~n:prop #end~bound
+MOT #start~bound I~pro:sub don't~mod know~v what~pro:wh you've~pro done~part with~prep it~pro #end~bound
+CHI #start~bound xxx~None #end~bound
+INV #start~bound pardon~co #end~bound
+INV #start~bound spoon~n #end~bound
+MOT #start~bound mm~None #end~bound
+MOT #start~bound I~pro:sub can't~mod find~v it~pro Becky~n:prop #end~bound
+MOT #start~bound it~pro can't~mod be~cop far~adv away~adv #end~bound
+MOT #start~bound I've~pro:sub got~part your~pro:poss knife~n though~adv #end~bound
+MOT #start~bound shall~mod I~pro:sub cut~v your~pro:poss toes~n off~prep #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod we~pro:sub cut~v them~pro:obj all~post off~prep #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod we~pro:sub cut~v the~det others~n:pt off~adv now~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod we~pro:sub cut~v your~pro:poss fingers~n off~prep now~adv #end~bound
+MOT #start~bound your~pro:poss finger~n nails~v need~n cutting~part don't~mod they~pro:sub #end~bound
+MOT #start~bound shall~mod we~pro:sub cut~v them~pro:obj with~prep the~det knife~n #end~bound
+MOT #start~bound and~coord shall~mod we~pro:sub cut~v your~pro:poss hair~n off~adv now~adv #end~bound
+MOT #start~bound and~coord shall~mod we~pro:sub cut~v your~pro:poss nose~n off~adv #end~bound
+CHI #start~bound eyes~n #end~bound
+MOT #start~bound cut~v your~pro:poss eyes~n off~prep #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound and~coord shall~mod we~pro:sub cut~v your~pro:poss ears~n off~adv #end~bound
+MOT #start~bound tickle~v #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound there's~pro:exist not~neg much~adv left~adj now~adv is~aux there~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound sticky~adj #end~bound
+MOT #start~bound sticky~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh #end~bound
+MOT #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound eyes~n #end~bound
+MOT #start~bound no~co no~co no~co #end~bound
+CHI #start~bound eyes~n #end~bound
+INV #start~bound no~co thank_you~co #end~bound
+CHI #start~bound eyes~n #end~bound
+MOT #start~bound xxx~None #end~bound
+CHI #start~bound ow~co #end~bound
+CHI #start~bound xxx~None hair~n #end~bound
+MOT #start~bound shall~mod I~pro:sub comb~v dolly's~n hair~n for~prep her~pro:obj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound has~v she~pro:sub got~aux pretty~adv hair~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound bobble~n #end~bound
+MOT #start~bound she's~pro:sub got~part a~det bobble~n in~adv #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf comb~v her~pro:poss hair~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound don't~mod stick~v that~pro:dem in~prep your~pro:poss hair~n #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf comb~v her~pro:poss hair~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+MOT #start~bound are~cop you~pro combing~part her~pro:poss hair~n with~prep a~det saucepan~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound are~cop you~pro #end~bound
+MOT #start~bound do~mod I~pro:sub ever~adv comb~v your~pro:poss hair~n with~prep a~det saucepan~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound I~pro:sub do~v do~mod I~pro:sub #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf comb~v my~pro:poss hair~n then~adv:tem #end~bound
+MOT #start~bound mm~None #end~bound
+MOT #start~bound it~pro doesn't~mod work~v very~adv well~adv does~mod it~pro #end~bound
+MOT #start~bound comb~v it~pro with~prep the~det comb~n #end~bound
+MOT #start~bound comb~n Mummy's~n:prop hair~n with~prep the~det comb~n #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound shall~mod I~pro:sub comb~v your~pro:poss fringe~n #end~bound
+MOT #start~bound tickle~v #end~bound
+MOT #start~bound does~mod it~pro tickle~v #end~bound
+MOT #start~bound does~mod it~pro tickle~v #end~bound
+MOT #start~bound does~mod it~pro tickle~v #end~bound
+MOT #start~bound does~mod it~pro tickle~v #end~bound
+MOT #start~bound comb~n dolly's~n fringe~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound who~pro:wh is~cop this~det Becky~n:prop #end~bound
+CHI #start~bound dolly~adj #end~bound
+MOT #start~bound and~conj what's~pro:wh her~pro:poss name~n though~adv #end~bound
+CHI #start~bound juice~n #end~bound
+MOT #start~bound juice~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound her~pro:poss name's~n Tiny_Tears~n:prop #end~bound
+CHI #start~bound Tiny_Tears~n:prop #end~bound
+MOT #start~bound Tiny_Tears~n:prop #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound pardon~co #end~bound
+MOT #start~bound more~pro:indef #end~bound
+CHI #start~bound this~pro:dem #end~bound
+INV #start~bound that's~pro:dem mine~pro:poss #end~bound
+INV #start~bound that's~pro:dem my~co tape~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound mine~None #end~bound
+MOT #start~bound I~pro:sub know~v it's~pro yours~pro:poss Becky~n:prop #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that's~pro:dem naughty~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod be~cop naughty~adj #end~bound
+MOT #start~bound come~v on~adv #end~bound
+MOT #start~bound let's~v:obj get~v your~pro:poss doll's~n house~n down~adv then~adv:tem #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound doll~n #end~bound
+MOT #start~bound oh~co there's~pro:exist your~pro:poss fork~n #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound you're~pro going~part to~inf have_to~mod:aux sit~v on~prep the~det floor~n I~pro:sub think~v to~inf play~v with~prep this~pro:dem #end~bound
+MOT #start~bound xxx~None use~n the~det #end~bound
+MOT #start~bound I~pro:sub suppose~v you~pro could~mod use~v the~det table~n #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf use~v the~det table~n for~prep it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf sit~v down~adv as_well~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound you~pro sit~v on~prep this~det one~pro:indef then~adv:tem #end~bound
+CHI #start~bound dolly~n sit~v down~adv #end~bound
+MOT #start~bound there~adv you~pro are~cop #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound right~co #end~bound
+MOT #start~bound where's~adv:wh the~det umbrella~n gone~part #end~bound
+MOT #start~bound oh~co it's~pro outside~adv isn't~cop it~pro #end~bound
+MOT #start~bound shall~mod I~pro:sub fetch~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound chairs~n #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf put~v them~pro:obj in~prep their~pro:poss chairs~n #end~bound
+CHI #start~bound mhm~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co it's~pro raining~part is~aux it~pro #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound where~adv:wh are~cop your~pro:poss people~n #end~bound
+MOT #start~bound shall~mod I~pro:sub spin~v it~pro round~adv for~conj you~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound give~v me~pro:obj the~None the~None the~det umbrella~n stick~n then~adv:tem #end~bound
+MOT #start~bound are~cop you~pro ready~v #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound bang~on #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound bang~on #end~bound
+MOT #start~bound xxx~None #end~bound
+CHI #start~bound no~co #end~bound
+CHI #start~bound no~co #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound what's~pro:wh the~det matter~n #end~bound
+CHI #start~bound more~qn ab~n:let #end~bound
+CHI #start~bound more~qn ab~n:let #end~bound
+CHI #start~bound more~qn ab~n:let #end~bound
+MOT #start~bound more~qn abcs~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound there~adv you~pro are~cop #end~bound
+MOT #start~bound whoops~co #end~bound
+CHI #start~bound bang~on #end~bound
+MOT #start~bound shall~mod I~pro:sub make~v your~pro:poss name~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound I'm~pro:sub not~neg sure~adj #end~bound
+MOT #start~bound have~aux you~pro got~v them~pro:obj all~post #end~bound
+MOT #start~bound ah~None #end~bound
+CHI #start~bound abcs~n #end~bound
+MOT #start~bound what~pro:wh is~cop your~pro:poss name~n #end~bound
+CHI #start~bound Becky~n:prop #end~bound
+MOT #start~bound Becky~n:prop what~pro:wh #end~bound
+CHI #start~bound Dodson~n:prop #end~bound
+MOT #start~bound Becky~n:prop Dodson~n:prop #end~bound
+INV #start~bound clever~adj girl~n #end~bound
+CHI #start~bound a~n:let #end~bound
+CHI #start~bound c~n:let #end~bound
+CHI #start~bound b~n:let #end~bound
+INV #start~bound acb~n:let #end~bound
+MOT #start~bound here~adv you~pro are~cop #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound we've~pro:sub got~part a~det d~n:let missing~part #end~bound
+MOT #start~bound I'm~pro:sub not~neg quite~adv sure~adj what's~rel happened~v to~prep it~pro #end~bound
+MOT #start~bound it's~pro probably~adj still~adv on~prep the~det fridge~n #end~bound
+MOT #start~bound can~mod you~pro go~v to~prep the~det fridge~n and~coord see~v if~conj you~pro can~mod find~v the~det letter~n d~n:let #end~bound
+MOT #start~bound if~conj it's~pro still~adv there~adv #end~bound
+MOT #start~bound go~v and~coord find~v if~conj there's~pro:exist any~qn more~adv abcs~n on~prep the~det fridge~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv #end~bound
+MOT #start~bound shall~mod we~pro:sub do~v the~det numbers~n first~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound one~pro:indef #end~bound
+MOT #start~bound two~det:num #end~bound
+MOT #start~bound three~det:num #end~bound
+MOT #start~bound four~det:num #end~bound
+MOT #start~bound five~det:num #end~bound
+CHI #start~bound letter~n #end~bound
+MOT #start~bound letters~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound they're~pro:sub numbers~n aren't~aux they~pro:sub #end~bound
+CHI #start~bound numbers~n #end~bound
+MOT #start~bound numbers~n #end~bound
+CHI #start~bound letters~n #end~bound
+MOT #start~bound go~v and~coord see~v if~conj there's~pro:exist another~qn letter~n on~prep the~det fridge~n that~rel you've~pro forgotten~part #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound there~adv it~pro is~cop #end~bound
+CHI #start~bound found~v it~pro #end~bound
+MOT #start~bound you've~pro found~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound right~co #end~bound
+MOT #start~bound put~v it~pro here~adv then~adv:tem #end~bound
+MOT #start~bound because~conj xxx~None letter~n d~n:let for~prep Dodson~n:prop #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound that~rel says~v your~pro:poss name~n there~adv Becky~n:prop #end~bound
+MOT #start~bound it~pro says~v Becky~n:prop Dodson~n:prop #end~bound
+MOT #start~bound is~cop that~pro:dem good~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+INV #start~bound clever~adj girl~n #end~bound
+CHI #start~bound Becky~n:prop Dodson~n:prop #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that~pro:dem doesn't~mod say~v Becky~n:prop Dodson~n:prop #end~bound
+MOT #start~bound this~pro:dem says~v Becky~n:prop Dodson~n:prop #end~bound
+MOT #start~bound and~conj these~pro:dem are~cop the~det numbers~n #end~bound
+MOT #start~bound one~pro:indef #end~bound
+MOT #start~bound two~det:num #end~bound
+MOT #start~bound three~det:num #end~bound
+MOT #start~bound four~det:num #end~bound
+MOT #start~bound five~det:num #end~bound
+CHI #start~bound Sukie~n:prop #end~bound
+INV #start~bound Sukie_Cat~n:prop #end~bound
+MOT #start~bound hello~co Sukie~n:prop #end~bound
+MOT #start~bound can~mod you~pro say~v hello~n to~prep Sukie~n:prop #end~bound
+CHI #start~bound hello~co Sukie~n:prop #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound can~mod you~pro say~v some~qn numbers~n for~prep me~pro:obj Becky~n:prop #end~bound
+CHI #start~bound a~None want~v there~adv #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v Sukie~n:prop wants~v them~pro:obj #end~bound
+MOT #start~bound can~mod you~pro say~v these~det numbers~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound one~pro:indef #end~bound
+CHI #start~bound two~det:num #end~bound
+CHI #start~bound wrong~adj way~n #end~bound
+CHI #start~bound wrong~adj way~n #end~bound
+MOT #start~bound the~det wrong~adj way~n is~aux it~pro #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound it~pro goes~v like~prep that~pro:dem does~mod it~pro #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that's~pro:dem upside~adv down~adv now~adv #end~bound
+MOT #start~bound it~pro goes~v like~prep that~pro:dem #end~bound
+MOT #start~bound that's~pro:dem number~n five~det:num #end~bound
+CHI #start~bound number~n five~det:num #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound a~n:let #end~bound
+CHI #start~bound b~n:let #end~bound
+MOT #start~bound that's~pro:dem upside~adv down~adv now~adv #end~bound
+MOT #start~bound that~det number~n five~det:num is~cop upside~adv down~adv #end~bound
+MOT #start~bound it~pro is~cop #end~bound
+CHI #start~bound Sukie_cat~n:prop #end~bound
+MOT #start~bound Sukie's~n:prop xxx~None #end~bound
+MOT #start~bound Sukie~n:prop probably~adv wants~v something~pro:indef to~inf eat~v #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound Sukie~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound Sukie~n:prop sit~v down~adv #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+MOT #start~bound are~cop they~pro:sub going~part to~inf have~v some~qn dinner~n #end~bound
+MOT #start~bound what~adv are~aux they~pro:sub eating~part #end~bound
+CHI #start~bound table~n out~adv #end~bound
+MOT #start~bound there's~pro:exist another~qn table~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound what~adv are~aux they~pro:sub eating~part for~prep their~pro:poss dinner~n #end~bound
+MOT #start~bound what~adv are~aux they~pro:sub eating~part #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound they're~pro:sub eating~part what~pro:wh #end~bound
+CHI #start~bound all~post eating~part table~n #end~bound
+MOT #start~bound they're~pro:sub eating~part the~det table~n #end~bound
+CHI #start~bound crayon~n #end~bound
+MOT #start~bound crayon~n #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound out~adv #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound they~pro:sub don't~mod come~v off~adv do~mod they~pro:sub #end~bound
+MOT #start~bound they're~pro:sub just~adv drawn~part on~adv #end~bound
+CHI #start~bound crayon~n #end~bound
+CHI #start~bound out~adv #end~bound
+CHI #start~bound crayon~n out~adv #end~bound
+MOT #start~bound you~pro want~v your~pro:poss crayons~n out~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh #end~bound
+MOT #start~bound now~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound okay~co #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf #end~bound
+MOT #start~bound put~None these~None letters~None in~None put~v the~det letters~n in~prep there~pro:dem #end~bound
+MOT #start~bound put~v them~pro:obj in~prep there~pro:dem #end~bound
+MOT #start~bound the~det numbers~n in~adv there~adv and~conj I'll~pro:sub put~v the~det letters~n in~prep here~pro:dem #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v the~det people~n back~adv in~prep the~det house~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~conj let's~v:obj put~v the~det umbrella~n out~adv as_well~adv #end~bound
+MOT #start~bound window~n out~adv #end~bound
+MOT #start~bound so~conj you~pro want~v your~pro:poss crayons~n out~adv do~v you~pro #end~bound
+CHI #start~bound window~n out~adv #end~bound
+MOT #start~bound the~det window~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound you~pro want~v the~det window~n out~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh window~n #end~bound
+MOT #start~bound this~det window~n #end~bound
+MOT #start~bound you~pro want~v to~inf close~v the~det door~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound like~prep that~pro:dem #end~bound
+MOT #start~bound is~cop that~pro:dem good~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound right~co #end~bound
+MOT #start~bound crayons~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound crayons~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf crayon~v in~prep Noddy~n:prop #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound oh~co no~co #end~bound
+MOT #start~bound there~adv you~pro are~cop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co here's~pro:exist that~det spoon~n I~pro:sub was~aux looking~part for~prep #end~bound
+MOT #start~bound isn't~cop it~pro amazing~part what~pro:wh you~pro find~v at~prep the~det bottom~n on~prep the~det toybox~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound do~mod you~pro want~v to~inf make~v your~pro:poss name~n again~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+CHI #start~bound no~co #end~bound
+MOT #start~bound no~co #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound you're~pro putting~part them~pro:obj all~post in~prep there~pro:dem #end~bound
+CHI #start~bound mhm~co #end~bound
+CHI #start~bound back~adv #end~bound
+MOT #start~bound putting~part them~pro:obj back~adv in~prep there~pro:dem #end~bound
+CHI #start~bound all_gone~co #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound all_gone~co #end~bound
+MOT #start~bound they've~pro:sub all_gone~co #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound have~v they~pro:sub #end~bound
+MOT #start~bound where've~rel they~pro:sub all_gone~co #end~bound
+CHI #start~bound gone~part #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound gone~part #end~bound
+MOT #start~bound they've~pro:sub gone~part #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound you~pro need~v to~inf sit~v properly~adv at~prep the~det table~n #end~bound
+MOT #start~bound stand~None stand~n up~adv #end~bound
+MOT #start~bound I'll~pro:sub move~v your~pro:poss chair~n in~adv #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound shall~mod I~pro:sub do~v some~qn as_well~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod I~pro:sub #end~bound
+MOT #start~bound what~pro:wh shall~mod I~pro:sub do~v #end~bound
+MOT #start~bound shall~mod I~pro:sub do~v this~det cloth~n here~adv #end~bound
+MOT #start~bound in~prep red~n #end~bound
+MOT #start~bound what~pro:wh color's~n this~pro:dem #end~bound
+CHI #start~bound cloth~n #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound it's~pro a~det cloth~n #end~bound
+MOT #start~bound but~conj what~pro:wh color~n is~aux it~pro #end~bound
+CHI #start~bound yellow~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro not~neg yellow~adj #end~bound
+MOT #start~bound it's~pro red~adj #end~bound
+CHI #start~bound red~adj #end~bound
+MOT #start~bound and~coord what~pro:wh color~n have~v you~pro got~v there~adv #end~bound
+CHI #start~bound a~det green~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro orange~adj #end~bound
+CHI #start~bound orange~adj #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound peepbo~co peekaboo~co #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound they're~pro:sub playing~part peepbo~v peekaboo~v down~adv there~adv are~cop they~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound what~pro:wh color~n is~cop that~pro:dem #end~bound
+CHI #start~bound yellow~adj #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound a~det blue~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound what~pro:wh are~aux you~pro coloring~part #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem here~adv #end~bound
+CHI #start~bound ladder~n #end~bound
+MOT #start~bound a~det ladder~n #end~bound
+CHI #start~bound fall~n down~adv #end~bound
+CHI #start~bound ladder~n #end~bound
+MOT #start~bound he's~None he's~pro:sub gonna~part going~part to~prep fall~n down~adv the~det ladder~n is~aux he~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co dear~co #end~bound
+MOT #start~bound he'll~pro:sub hurt~v himself~pro:refl if~conj he~pro:sub does~mod that~pro:dem willn't~mod he~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound doing~part #end~bound
+MOT #start~bound what~adv am~aux I~pro:sub doing~part #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound I'm~pro:sub coloring~part in~prep that~det cloth~n #end~bound
+CHI #start~bound yellow~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro orange~adj #end~bound
+CHI #start~bound cloth~n #end~bound
+CHI #start~bound orange~adj #end~bound
+MOT #start~bound what~pro:wh color~n is~aux this~det #end~bound
+CHI #start~bound it's~pro yellow~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro blue~adj #end~bound
+CHI #start~bound blue~adj #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound this~pro:dem #end~bound
+CHI #start~bound this~pro:dem #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub holding~part #end~bound
+CHI #start~bound ice~n #end~bound
+MOT #start~bound an~det ice~n #end~bound
+MOT #start~bound does~mod it~pro look~v a~det nice~adj ice~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound big~adj one~pro:indef isn't~cop it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro like~v ice~n #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound mhm~co #end~bound
+CHI #start~bound cloth~n #end~bound
+CHI #start~bound a~None more~qn cloth~n #end~bound
+MOT #start~bound more~qn cloths~n #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound yellow~adj cloth~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro not~neg a~det yellow~n cloth~n #end~bound
+MOT #start~bound it's~pro a~None a~det red~n cloth~n and~coord an~det orange~n cloth~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound orange~adj cloth~n #end~bound
+MOT #start~bound an~det orange~adj cloth~n #end~bound
+CHI #start~bound I~pro:sub xxx~None going~part #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound a~det door~n #end~bound
+MOT #start~bound a~det door~n #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound that~pro:dem #end~bound
+CHI #start~bound that~pro:dem #end~bound
+MOT #start~bound it's~pro what~pro:wh #end~bound
+CHI #start~bound that~pro:dem #end~bound
+MOT #start~bound hot~adj #end~bound
+CHI #start~bound want~v #end~bound
+MOT #start~bound which~rel one~pro:indef do~mod you~pro want~v #end~bound
+MOT #start~bound this~det one~pro:indef #end~bound
+MOT #start~bound yellow~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound because~conj yellow's~n your~pro:poss favorite~n color~n isn't~cop it~pro #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound because~conj everything's~pro:indef yellow~n isn't~aux it~pro #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound I~pro:sub don't~mod want~v it~pro in~prep my~pro:poss mouth~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound a~det door~n #end~bound
+CHI #start~bound yellow~adj door~n #end~bound
+MOT #start~bound let's~v:obj do~v another~qn one~pro:indef #end~bound
+MOT #start~bound let's~v:obj see~v what~pro:wh else~post there~pro:exist is~cop #end~bound
+MOT #start~bound oh~co there's~pro:exist a~det good~adj one~pro:indef look~co #end~bound
+MOT #start~bound there's~pro:exist Noddy~n:prop #end~bound
+CHI #start~bound Noddy~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound and~conj who's~pro:wh this~pro:dem here~adv #end~bound
+CHI #start~bound elephant~n #end~bound
+MOT #start~bound an~det elephant~n #end~bound
+CHI #start~bound elephant~n #end~bound
+MOT #start~bound they're~pro:sub in~prep a~det car~n aren't~aux they~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound and~conj who've~rel we~pro:sub got~v here~adv #end~bound
+CHI #start~bound ducky~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound they're~pro:sub not~neg duckies~n #end~bound
+MOT #start~bound they're~pro:sub birds~n aren't~aux they~pro:sub #end~bound
+MOT #start~bound birdies~n #end~bound
+CHI #start~bound a~det quack~on #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro not~neg a~det duck~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro a~det bird~n #end~bound
+CHI #start~bound bird~n #end~bound
+CHI #start~bound egg~n #end~bound
+MOT #start~bound egg~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro not~neg an~det egg~n #end~bound
+MOT #start~bound where's~adv:wh the~det egg~n #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound that's~pro:dem not~neg an~det egg~n #end~bound
+CHI #start~bound window~n #end~bound
+MOT #start~bound it's~pro a~det window~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound are~cop you~pro coloring~part the~det window~n in~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound and~coord what~pro:wh color~n are~cop you~pro coloring~part it~pro in~adv #end~bound
+CHI #start~bound a~None yellow~adj #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro brown~adj #end~bound
+CHI #start~bound brown~adj #end~bound
+MOT #start~bound brown~adj #end~bound
+MOT #start~bound brown~adj #end~bound
+CHI #start~bound brown~adj #end~bound
+MOT #start~bound more~adv brown~adj windows~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound egg~n #end~bound
+CHI #start~bound man~n #end~bound
+MOT #start~bound he's~pro:sub standing~part on~prep his~pro:poss arms~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound and~coord look~v at~prep Noddy~n:prop #end~bound
+MOT #start~bound Noddy~n:prop looks~v as~conj though~adv he's~pro:sub going~part to~inf stand~v on~prep his~pro:poss head~n #end~bound
+MOT #start~bound doesn't~mod he~pro:sub #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound there's~pro:exist some~qn balloons~n here~adv look~co #end~bound
+MOT #start~bound shall~mod we~pro:sub color~v some~qn balloons~n in~prep #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf do~v one~pro:indef brown~adj #end~bound
+MOT #start~bound and~conj I'll~pro:sub do~v one~det:num blue~n #end~bound
+MOT #start~bound I'll~pro:sub do~v this~det one~pro:indef blue~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound rabbit~n #end~bound
+MOT #start~bound it's~pro a~det rabbit~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub doing~part #end~bound
+CHI #start~bound um~None doing~part #end~bound
+MOT #start~bound he's~pro:sub doing~part what~pro:wh #end~bound
+CHI #start~bound doing~part #end~bound
+MOT #start~bound doing~part #end~bound
+CHI #start~bound doing~part #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound lady~n #end~bound
+CHI #start~bound lady~n #end~bound
+MOT #start~bound lady~n #end~bound
+CHI #start~bound toy~n #end~bound
+CHI #start~bound toys~n #end~bound
+MOT #start~bound toys~n #end~bound
+CHI #start~bound yeah~co #end~bound
+INV #start~bound I'll~pro:sub get~v them~pro:obj in~prep a~det minute~n #end~bound
+CHI #start~bound car~n #end~bound
+INV #start~bound from~prep the~det car~n #end~bound
+INV #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~pro:dem what~pro:wh happens~v next~adv Becky~n:prop #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~aux it~pro #end~bound
+MOT #start~bound gosh~co #end~bound
+MOT #start~bound you've~pro got~part a~det good~adj memory~n haven't~aux you~pro #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound Noddy's~n:prop in~prep bed~n #end~bound
+MOT #start~bound he's~pro:sub got~part his~pro:poss eyes~n closed~v #end~bound
+MOT #start~bound can~mod you~pro close~v your~pro:poss eyes~n #end~bound
+MOT #start~bound and~conj what~pro:wh do~mod we~pro:sub say~v with~prep eyes~n closed~v #end~bound
+MOT #start~bound what~pro:wh do~mod we~pro:sub say~v #end~bound
+CHI #start~bound eyes~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound we~pro:sub say~v night_night~co #end~bound
+CHI #start~bound night_night~co #end~bound
+MOT #start~bound night_night~co Noddy~n:prop #end~bound
+CHI #start~bound night_night~co Noddy~n:prop #end~bound
+CHI #start~bound teddy~n #end~bound
+MOT #start~bound teddy~n #end~bound
+MOT #start~bound she's~pro:sub wearing~part a~det dress~n #end~bound
+MOT #start~bound can~mod you~pro see~v her~pro:poss dress~n #end~bound
+CHI #start~bound baby~n #end~bound
+CHI #start~bound teddy~n #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound teddy~n #end~bound
+CHI #start~bound dress~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound that's~pro:dem not~neg a~det dress~n #end~bound
+MOT #start~bound you've~pro got~part a~det dress~n on~adv though~adv haven't~aux you~pro #end~bound
+MOT #start~bound where's~adv:wh your~pro:poss dress~n #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound teddy~n dress~n #end~bound
+MOT #start~bound teddy's~n dress~n #end~bound
+CHI #start~bound eyes~n #end~bound
+MOT #start~bound let's~v:obj make~v it~pro blue~n shall~mod we~pro:sub #end~bound
+CHI #start~bound blue~adj #end~bound
+MOT #start~bound blue~adj dress~n #end~bound
+CHI #start~bound ice~n #end~bound
+MOT #start~bound another~qn ice~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound ice~n #end~bound
+CHI #start~bound more~qn ice~n #end~bound
+CHI #start~bound more~qn ice~n #end~bound
+MOT #start~bound more~qn ice~n #end~bound
+CHI #start~bound more~qn ice~n #end~bound
+MOT #start~bound this~pro:dem is~cop a~det ladybird~n #end~bound
+MOT #start~bound ladybirds~n are~cop red~n aren't~aux they~pro:sub #end~bound
+MOT #start~bound let's~v:obj make~v it~pro red~n #end~bound
+CHI #start~bound red~adj #end~bound
+CHI #start~bound and~coord more~pro:indef #end~bound
+CHI #start~bound and~coord more~pro:indef #end~bound
+MOT #start~bound more~qn crayons~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound it's~pro a~det red~adj ladybird~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound red~adj feet~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there~adv #end~bound
+CHI #start~bound oh~co xxx~None #end~bound
+MOT #start~bound I~pro:sub can~mod see~v another~qn ladybird~n I~pro:sub think~v #end~bound
+CHI #start~bound more~qn shoes~n #end~bound
+CHI #start~bound shoes~n #end~bound
+MOT #start~bound more~qn red~n shoes~n shall~mod we~pro:sub do~v #end~bound
+MOT #start~bound mhm~co #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound good~adj #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound good~adj #end~bound
+MOT #start~bound it's~pro good~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound good~adj #end~bound
+CHI #start~bound good~adj #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound want~v orange~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod I~pro:sub give~v Big_Ears~n:prop a~det brown~adj beard~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound brown~adj beard~n #end~bound
+MOT #start~bound brown~adj beard~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound there's~pro:exist no~qn more~qn beards~n there~adv #end~bound
+MOT #start~bound there~adv #end~bound
+MOT #start~bound and~conj Noddy~n:prop can~mod have~v some~qn brown~adj xxx~None #end~bound
+MOT #start~bound there~adv we~pro:sub go~v #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound ears~n #end~bound
+CHI #start~bound and~coord ears~n #end~bound
+MOT #start~bound his~pro:poss ears~n was~cop that~pro:dem #end~bound
+CHI #start~bound take~v off~adv #end~bound
+MOT #start~bound well~co it~pro doesn't~mod come~v off~adv #end~bound
+MOT #start~bound it~pro doesn't~mod come~v off~prep sweetie~n #end~bound
+MOT #start~bound it's~pro just~adj a~det pretend~adj one~pro:indef #end~bound
+MOT #start~bound oh~co Becky~n:prop #end~bound
+MOT #start~bound it~pro doesn't~mod come~v off~prep darling~co #end~bound
+MOT #start~bound let's~v:obj have~v a~det look~n what~pro:wh else~post is~aux in~prep here~pro:dem #end~bound
+MOT #start~bound can~mod you~pro tell~v me~pro:obj what~pro:wh we've~pro:sub got~v in~prep here~pro:dem #end~bound
+MOT #start~bound what~pro:wh did~mod we~pro:sub say~v this~det was~cop #end~bound
+CHI #start~bound a~det bun~n #end~bound
+CHI #start~bound a~det bread~n #end~bound
+MOT #start~bound bun~n #end~bound
+MOT #start~bound a~det bread~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound bread~n #end~bound
+MOT #start~bound it's~pro like~rel a~det croissant~n actually~adv #end~bound
+CHI #start~bound bread~n #end~bound
+MOT #start~bound bread~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound that's~pro:dem right~adv #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem Becky~n:prop #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+CHI #start~bound um~None more~qn bread~n #end~bound
+MOT #start~bound it's~pro a~det melon~n #end~bound
+MOT #start~bound it's~pro not~neg more~qn bread~n #end~bound
+MOT #start~bound it's~pro melon~n #end~bound
+CHI #start~bound melon~n #end~bound
+MOT #start~bound melon~n #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+MOT #start~bound it's~pro a~det pineapple~n #end~bound
+CHI #start~bound pineapple~n #end~bound
+CHI #start~bound this~pro:dem #end~bound
+MOT #start~bound that's~pro:dem er~None a~det bottle~n of~prep juice~n or~coord milk~n or~coord something~pro:indef #end~bound
+CHI #start~bound Sukie~n:prop #end~bound
+MOT #start~bound do~mod you~pro think~v Sukie~n:prop wants~v a~det drink~n from~prep it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound hello~co Sukie~n:prop #end~bound
+CHI #start~bound Sukie~n:prop #end~bound
+CHI #start~bound Sukie~n:prop #end~bound
+MOT #start~bound Becky~n:prop wants~v to~inf give~v you~pro a~det drink~n look~co #end~bound
+MOT #start~bound do~mod you~pro think~v he~pro:sub likes~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro he's~pro:sub drinking~part #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+CHI #start~bound a~None milk~n #end~bound
+MOT #start~bound it's~pro milk~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound want~v some~qn more~pro:indef Sukie~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound Sukie's~n:prop losing~part his~pro:poss fur~n look~n Becky~n:prop #end~bound
+MOT #start~bound can~mod you~pro see~v #end~bound
+MOT #start~bound look~co #end~bound
+MOT #start~bound what~pro:wh is~cop that~pro:dem #end~bound
+MOT #start~bound it's~pro fur~n that's~rel coming~part off~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound like~prep it~pro #end~bound
+MOT #start~bound he~pro:sub likes~v it~pro does~v he~pro:sub #end~bound
+CHI #start~bound ow~co xxx~None #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound ow~co #end~bound
+INV #start~bound is~cop that~pro:dem what~pro:wh you~pro did~v it~pro on~adv #end~bound
+MOT #start~bound no~co I~pro:sub don't~mod think~v so~co #end~bound
+CHI #start~bound chin~n #end~bound
+MOT #start~bound you've~pro hurt~part your~pro:poss chin~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v you~pro hurt~v it~pro on~prep this~det though~adv #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound give~v Sukie~n:prop a~det kiss~n #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound oh~co Sukie~n:prop wants~v a~det love~n doesn't~mod he~pro:sub #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound do~mod you~pro love~v Sukie~n:prop #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound do~mod you~pro #end~bound
+MOT #start~bound is~cop he~pro:sub your~pro:poss friend~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound does~mod he~pro:sub scratch~v you~pro though~adv sometimes~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound he's~pro:sub got~part #end~bound
+MOT #start~bound what~pro:wh are~aux these~det he's~pro:sub got~v here~adv #end~bound
+CHI #start~bound Andy~n:prop teddy~n #end~bound
+MOT #start~bound Andy's~n:prop here~adv #end~bound
+MOT #start~bound okay~co #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound you~pro want~v teddy~n as_well~adv #end~bound
+CHI #start~bound Andy~n:prop #end~bound
+CHI #start~bound Andy~n:prop teddy~n xxx~None #end~bound
+MOT #start~bound Andy~n:prop and~coord teddy~n what~pro:wh #end~bound
+CHI #start~bound open~v this~pro:dem #end~bound
+MOT #start~bound you~pro want~v to~inf open~v this~pro:dem #end~bound
+CHI #start~bound this~pro:dem #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound well~co I~pro:sub haven't~aux seen~part all~qn this~det fruit~n in~prep here~pro:dem yet~adv #end~bound
+MOT #start~bound xxx~None have~v a~det look~n at~prep it~pro in~prep a~det bit~n then~adv:tem shall~mod we~pro:sub #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound you~pro want~v me~pro:obj to~inf open~v it~pro or~coord can~mod you~pro do~v it~pro #end~bound
+MOT #start~bound shall~mod I~pro:sub do~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound there~adv #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound do~mod you~pro remember~co this~det #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound it's~pro got~part animals~n in~adv #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound xxx~None there~adv #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound toys~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound Sukie's~n:prop having~part a~det look~n at~prep these~det toys~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound do~mod you~pro think~v he~pro:sub might~mod want~v to~inf play~v with~prep them~pro:obj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound um~None elephant~n #end~bound
+MOT #start~bound an~det elephant~n #end~bound
+MOT #start~bound that's~pro:dem upside~adv down~adv #end~bound
+MOT #start~bound it~pro goes~v that~adv way~n look~co #end~bound
+MOT #start~bound it's~pro got~part an~det eye~n #end~bound
+CHI #start~bound an~det eye~n #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound that's~pro:dem the~det Mummy~n:prop whale~n is~aux it~pro #end~bound
+MOT #start~bound and~conj who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound baby~n whale~n #end~bound
+MOT #start~bound the~det baby~n whale~n #end~bound
+CHI #start~bound one~det:num two~det:num xxx~None #end~bound
+MOT #start~bound what~pro:wh are~aux you~pro singing~part #end~bound
+CHI #start~bound one~det:num two~det:num three~det:num five~det:num six~det:num #end~bound
+MOT #start~bound once~adv I~pro:sub caught~v a~det fish~n alive~adj #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound how~adv:wh does~v the~det song~n go~v #end~bound
+CHI #start~bound one~det:num two~det:num three~det:num five~det:num six~det:num #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound hippo~n #end~bound
+MOT #start~bound oh~co a~det hippo~n #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound fishy~adj #end~bound
+CHI #start~bound a~det fishies~n #end~bound
+MOT #start~bound fishies~n #end~bound
+MOT #start~bound let's~v:obj have~v a~det look~co #end~bound
+CHI #start~bound one~pro:indef #end~bound
+MOT #start~bound xxx~None fishy~adj #end~bound
+MOT #start~bound mm~None #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound on~prep there~pro:dem #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound one~det:num two~det:num three~det:num #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound it's~pro what~pro:wh #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound that's~pro:dem hay~n #end~bound
+CHI #start~bound hay~n #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound one~det:num two~det:num three~det:num xxx~None #end~bound
+MOT #start~bound and~conj what's~pro:wh that~det one~pro:indef #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound that's~pro:dem bones~n #end~bound
+MOT #start~bound can~mod you~pro say~v bones~n #end~bound
+CHI #start~bound bones~n #end~bound
+MOT #start~bound bones~n #end~bound
+CHI #start~bound giraffe~n here~adv #end~bound
+CHI #start~bound giraffe~n here~adv #end~bound
+MOT #start~bound giraffe~n here~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound fish~n gone~part #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound seesaw~n Margery~n:prop Daw~n:prop #end~bound
+CHI #start~bound Pingu~n:prop in~prep there~pro:dem #end~bound
+MOT #start~bound is~aux there~adv Pingu~n:prop there~adv is~aux there~adv #end~bound
+MOT #start~bound and~conj who's~pro:wh this~pro:dem #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem look~n Becky~n:prop #end~bound
+CHI #start~bound lion~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro not~neg a~det lion~n #end~bound
+MOT #start~bound it's~pro a~det tiger~n #end~bound
+CHI #start~bound tiger~n #end~bound
+MOT #start~bound and~coord how~adv:wh does~v he~pro:sub go~v #end~bound
+MOT #start~bound grrr~on #end~bound
+MOT #start~bound look~co #end~bound
+MOT #start~bound his~pro:poss head~n moves~n #end~bound
+MOT #start~bound oh~co dear~co #end~bound
+MOT #start~bound bless~v you~pro #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co look~co #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound baby~n tiger~n #end~bound
+MOT #start~bound a~det baby~n tiger~n #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v the~det baby~n with~prep the~det Mummy~n:prop #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there~adv they~pro:sub are~aux look~co #end~bound
+CHI #start~bound seven~det:num #end~bound
+CHI #start~bound seven~det:num #end~bound
+MOT #start~bound pardon~co #end~bound
+MOT #start~bound seven~det:num #end~bound
+CHI #start~bound chin~n #end~bound
+CHI #start~bound chin~n #end~bound
+MOT #start~bound your~pro:poss chin~n hurts~n does~mod it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~aux it~pro sore~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound poor~adj Becky~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound oh~co #end~bound
+CHI #start~bound ladder~n #end~bound
+MOT #start~bound another~qn ladder~n #end~bound
+CHI #start~bound another~qn ladder~n #end~bound
+CHI #start~bound a~det ladder~n #end~bound
+CHI #start~bound a~det ladder~n again~adv #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound baby~n #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound is~cop that~rel the~det Mummy~n:prop and~conj that's~pro:dem the~det baby~n #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound Mummy~n:prop and~coord baby~n penguins~n #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v the~det hippo~n in~prep the~det car~n look~co #end~bound
+MOT #start~bound brumm~on #end~bound
+MOT #start~bound brumm~on #end~bound
+CHI #start~bound more~qn ladder~n #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v that'll~rel go~v on~adv actually~adv #end~bound
+MOT #start~bound well~co it~pro will~mod but~conj #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound whee~co #end~bound
+MOT #start~bound whee~co #end~bound
+CHI #start~bound I~pro:sub xxx~None ladder~n #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound more~qn ladder~n #end~bound
+MOT #start~bound more~qn ladders~n #end~bound
+CHI #start~bound ow~co #end~bound
+CHI #start~bound chin~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound your~pro:poss chin~n hurts~n does~mod it~pro #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound oh~co Becky~n:prop #end~bound
+MOT #start~bound come~v and~coord have~v a~det cuddle~v #end~bound
+CHI #start~bound Andy~n:prop teddy~n #end~bound
+MOT #start~bound Andy~n:prop and~coord teddy~n #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound poor~adj Becky~n:prop #end~bound
+MOT #start~bound it's~pro no~co worse~adj than~prep when~conj Sukie_cat~n:prop scratches~v you~pro though~adv is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound no~co it~pro isn't~cop #end~bound
+MOT #start~bound Sukie~n:prop scratches~v you~pro #end~bound
+MOT #start~bound that~pro:dem doesn't~mod hurt~v much~qn #end~bound
+MOT #start~bound does~mod it~pro #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound baby~n #end~bound
+CHI #start~bound Mummy~n:prop baby~n #end~bound
+MOT #start~bound Mummys~n:prop and~coord babys~n #end~bound
+CHI #start~bound it's~pro a~det window~n #end~bound
+MOT #start~bound a~det window~n #end~bound
+MOT #start~bound where's~adv:wh the~det window~n #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound it's~pro in~prep there~pro:dem is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~rel the~det window~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound looks~v like~prep a~det door~n to~prep me~pro:obj #end~bound
+CHI #start~bound door~n #end~bound
+MOT #start~bound is~aux it~pro a~det door~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound it's~pro a~det door~n #end~bound
+MOT #start~bound who's~pro:wh this~pro:dem #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound it's~pro a~det monkey~n #end~bound
+MOT #start~bound a~det monkey~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound ride~n on~prep his~pro:poss back~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound there~adv xxx~None #end~bound
+CHI #start~bound oh~co #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v the~det monkey~n on~prep the~det ladder~n look~co #end~bound
+MOT #start~bound let's~v:obj make~v him~pro:obj hold~n onto~prep it~pro #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound he~pro:sub doesn't~mod hold~v onto~prep that~pro:dem #end~bound
+MOT #start~bound there~adv we~pro:sub are~aux look~co #end~bound
+INV #start~bound that's~pro:dem a~det very~adv strange~adj looking~part car~n #end~bound
+CHI #start~bound train~n #end~bound
+CHI #start~bound choo~on #end~bound
+MOT #start~bound I~pro:sub think~v it~pro needs~v something~pro:indef else~post with~prep it~pro but~conj there~pro:exist isn't~cop anything~pro:indef else~post #end~bound
+MOT #start~bound what~pro:wh do~mod you~pro think~v Becky~n:prop #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound do~mod you~pro think~v it~pro needs~v an~det engine~n on~prep it~pro #end~bound
+MOT #start~bound and~conj a~det wheel~n to~inf drive~v it~pro with~prep #end~bound
+CHI #start~bound wheel~n to~inf drive~v it~pro #end~bound
+MOT #start~bound how~adv:wh does~v the~det song~n go~v #end~bound
+CHI #start~bound chin~n #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound chin~n #end~bound
+MOT #start~bound chin~n hurts~v #end~bound
+MOT #start~bound I~pro:sub know~v #end~bound
+MOT #start~bound mhm~co #end~bound
+MOT #start~bound are~cop you~pro going~part to~inf sing~v the~det monkey~n song~n for~prep us~pro:obj #end~bound
+CHI #start~bound dance_on_bed~sing #end~bound
+MOT #start~bound dancing~part on~prep the~det bed~n #end~bound
+CHI #start~bound chin~n #end~bound
+CHI #start~bound chin~n #end~bound
+INV #start~bound chin~n #end~bound
+INV #start~bound I~pro:sub know~v #end~bound
+INV #start~bound I~pro:sub know~v #end~bound
+INV #start~bound I'm~pro:sub sorry~adj #end~bound
+INV #start~bound oh~co dear~co #end~bound
+INV #start~bound that~rel does~v look~n bad~adj doesn't~mod it~pro #end~bound
+CHI #start~bound mhm~co #end~bound
+INV #start~bound are~cop you~pro brave~n soldier~n though~adv #end~bound
+CHI #start~bound Andy~n:prop teddy~n #end~bound
+MOT #start~bound Andy's~n:prop here~adv look~co #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound can~mod you~pro see~v the~det baby~n in~prep there~pro:dem look~co #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound is~cop that~rel Becky~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound this~pro:dem #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound you~pro know~v what~adv that~adv is~aux don't~mod you~pro #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+MOT #start~bound do~mod you~pro know~v what~adv that~adv is~cop #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+CHI #start~bound a~None xxx~None #end~bound
+MOT #start~bound it's~pro what~pro:wh #end~bound
+CHI #start~bound a~det baby~n #end~bound
+MOT #start~bound a~det baby~n #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound chips~n aren't~aux they~pro:sub #end~bound
+MOT #start~bound do~mod you~pro like~v chips~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound they're~pro:sub good~adj aren't~aux they~pro:sub chips~v #end~bound
+CHI #start~bound mhm~co #end~bound
+CHI #start~bound eat~v #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound eat~v #end~bound
+MOT #start~bound eat~v #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+CHI #start~bound sit~v down~adv there~adv #end~bound
+MOT #start~bound they~pro:sub don't~mod come~v out~adv though~adv do~mod they~pro:sub #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound cow~n #end~bound
+MOT #start~bound it's~pro got~part a~det cow~n on~prep it~pro so_that~conj means~v it~pro must~mod be~cop milk~n #end~bound
+CHI #start~bound more~qn cow~n #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound more~qn cows~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+MOT #start~bound it's~pro a~det cake~n #end~bound
+CHI #start~bound a~det cake~n #end~bound
+CHI #start~bound happy_birthday~co #end~bound
+MOT #start~bound happy_birthday~co #end~bound
+MOT #start~bound is~cop that~pro:dem when~conj we~pro:sub have~v cake~n #end~bound
+MOT #start~bound when~conj it's~pro happy_birthday~co #end~bound
+CHI #start~bound this~pro:dem #end~bound
+CHI #start~bound this~pro:dem #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem Becky~n:prop #end~bound
+CHI #start~bound xxx~None there~adv #end~bound
+MOT #start~bound it's~pro a~det tomato~n #end~bound
+CHI #start~bound tomato~n #end~bound
+CHI #start~bound all_gone~co #end~bound
+CHI #start~bound all_gone~co #end~bound
+CHI #start~bound all_gone~co #end~bound
+MOT #start~bound www~None #end~bound
+INV #start~bound it's~pro horrid~adj meat~n Becky~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound that's~pro:dem called~v a~det hot~n #end~bound
+CHI #start~bound hot~n #end~bound
+MOT #start~bound a~det hot~n #end~bound
+CHI #start~bound hot~n #end~bound
+CHI #start~bound bun~n #end~bound
+MOT #start~bound it's~pro a~det bun~n #end~bound
+CHI #start~bound what's~pro:wh this~pro:dem #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound and~conj some~qn cheese~n here~adv #end~bound
+CHI #start~bound yes~co #end~bound
+MOT #start~bound and~conj we'll~pro:sub put~v it~pro in~prep the~det bread~n to~inf make~v a~det sandwich~n #end~bound
+MOT #start~bound look~co #end~bound
+MOT #start~bound a~det sandwich~n #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound eh~None #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound that's~pro:dem what~pro:wh we~pro:sub do~v #end~bound
+MOT #start~bound but~conj don't~mod bite~v it~pro though~adv #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound it's~pro what~pro:wh #end~bound
+MOT #start~bound what~pro:wh is~cop this~det Becky~n:prop #end~bound
+MOT #start~bound you~pro know~v what~adv this~det is~cop #end~bound
+MOT #start~bound what~pro:wh is~aux it~pro #end~bound
+CHI #start~bound straw~n #end~bound
+MOT #start~bound it's~pro a~det strawberry~n #end~bound
+CHI #start~bound strawberry~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound we~pro:sub went~v strawberry~n picking~part yesterday~adv:tem didn't~mod we~pro:sub #end~bound
+MOT #start~bound do~mod you~pro remember~v that~rel #end~bound
+CHI #start~bound strawberry~n #end~bound
+MOT #start~bound Becky~n:prop #end~bound
+MOT #start~bound do~mod you~pro remember~v going~n:gerund strawberry~n picking~part yesterday~adv:tem #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound and~conj you~pro ate~v lots~n and~coord lots_of~qn strawberrys~n didn't~mod you~pro #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound little~adj one~pro:indef #end~bound
+MOT #start~bound I~pro:sub was~cop very~adv cross~adj wasn't~cop I~pro:sub #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound want~v #end~bound
+MOT #start~bound thank_you~co #end~bound
+CHI #start~bound eat~v #end~bound
+MOT #start~bound eat~v #end~bound
+MOT #start~bound oh~co it's~pro nice~adj #end~bound
+CHI #start~bound sponge~n #end~bound
+MOT #start~bound a~det sponge~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound where's~adv:wh the~det sponge~n #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v it's~pro a~det sponge~n #end~bound
+MOT #start~bound it's~pro supposed~part to~inf be~cop a~det bun~n #end~bound
+MOT #start~bound a~det bread~n bun~n #end~bound
+CHI #start~bound bread~n bun~n #end~bound
+MOT #start~bound there's~pro:exist some~qn lettuce~n here~adv look~co #end~bound
+MOT #start~bound you~pro can~mod put~v that~pro:dem with~prep your~pro:poss cheese~n to~inf make~v a~det sandwich~n #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound Andy~n:prop #end~bound
+MOT #start~bound is~cop Andy~n:prop having~part some~qn #end~bound
+CHI #start~bound sandwich~n #end~bound
+MOT #start~bound he's~pro:sub eating~part a~det sandwich~n #end~bound
+MOT #start~bound do~mod you~pro think~v he~pro:sub likes~v it~pro #end~bound
+CHI #start~bound want~v #end~bound
+MOT #start~bound you~pro want~v to~inf put~v that~pro:dem on~adv as_well~adv do~v you~pro #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+INV #start~bound err~v #end~bound
+MOT #start~bound can~mod he~pro:sub eat~v that~rel now~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound can~mod Andy~n:prop eat~v that~rel now~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound that~det one~pro:indef #end~bound
+CHI #start~bound eat~v #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod put~v it~pro in~prep your~pro:poss mouth~n #end~bound
+MOT #start~bound you~pro just~adv have_to~mod:aux pretend~v with~prep it~pro #end~bound
+MOT #start~bound don't~mod bite~v it~pro for~prep real~adj #end~bound
+MOT #start~bound just~adv pretend~adj #end~bound
+MOT #start~bound it's~pro not~neg really~adv nice~adj to~inf eat~v #end~bound
+MOT #start~bound it's~pro horrible~adj #end~bound
+MOT #start~bound isn't~cop it~pro #end~bound
+MOT #start~bound err~v #end~bound
+MOT #start~bound horrible~adj #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound grape~n #end~bound
+MOT #start~bound grapes~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound can~mod you~pro remember~v what~None that~None what~adv that~adv was~cop #end~bound
+CHI #start~bound a~det pear~n #end~bound
+MOT #start~bound a~det pear~n #end~bound
+CHI #start~bound more~qn pear~n #end~bound
+MOT #start~bound there's~pro:exist more~qn pears~n is~aux there~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound celery~n #end~bound
+MOT #start~bound mm~None #end~bound
+MOT #start~bound celery's~n nice~adj isn't~cop it~pro #end~bound
+INV #start~bound don't~mod know~v #end~bound
+MOT #start~bound lettuce~n #end~bound
+INV #start~bound no~qn idea~n #end~bound
+INV #start~bound I~pro:sub think~v so~co #end~bound
+INV #start~bound yeah~co #end~bound
+INV #start~bound probably~adv #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod do~v that~pro:dem #end~bound
+MOT #start~bound you'll~pro break~v it~pro if~conj you~pro do~v that~pro:dem #end~bound
+MOT #start~bound it's~pro not~neg nice~adj either~adv is~aux it~pro #end~bound
+CHI #start~bound horrible~adj #end~bound
+MOT #start~bound horrible~adj #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound more~qn grapes~n #end~bound
+CHI #start~bound more~qn grape~n #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound more~qn grape~n #end~bound
+CHI #start~bound more~qn grape~n #end~bound
+CHI #start~bound gone~part #end~bound
+CHI #start~bound more~qn grape~n gone~part #end~bound
+MOT #start~bound they've~pro:sub gone~part have~v they~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co there~adv they~pro:sub are~cop #end~bound
+MOT #start~bound there~adv #end~bound
+CHI #start~bound I~pro:sub hold~v it~pro #end~bound
+CHI #start~bound I~pro:sub hold~v it~pro #end~bound
+CHI #start~bound I~pro:sub hold~v it~pro #end~bound
+MOT #start~bound you~pro hold~v it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound the~det end~n #end~bound
+MOT #start~bound the~det end~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co the~det end~n on~prep the~det tv~n #end~bound
+MOT #start~bound is~cop that~pro:dem what~pro:wh happens~v at~prep the~det end~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound the~det end~n #end~bound
+MOT #start~bound the~det end~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound that's~pro:dem soup~n #end~bound
+MOT #start~bound a~det tin~n of~prep soup~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound another~qn tin~n of~prep soup~n #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound more~qn soup~n #end~bound
+MOT #start~bound and~conj that~pro:dem is~cop a~det tin~n of~prep fruit~n I~pro:sub think~v #end~bound
+CHI #start~bound more~qn tin~n #end~bound
+MOT #start~bound more~qn tins~n #end~bound
+MOT #start~bound and~conj more~qn tins~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound that's~pro:dem a~det tin~n of~prep fruit~n cocktail~n #end~bound
+MOT #start~bound fruit~n #end~bound
+MOT #start~bound it~pro is~cop #end~bound
+CHI #start~bound tin~n #end~bound
+CHI #start~bound tin~n #end~bound
+MOT #start~bound how~adv:wh many~qn tins~n are~cop there~adv #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound two~det:num #end~bound
+CHI #start~bound three~det:num #end~bound
+CHI #start~bound eight~det:num #end~bound
+CHI #start~bound seven~det:num #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound there's~pro:exist four~det:num #end~bound
+MOT #start~bound one~pro:indef #end~bound
+MOT #start~bound two~det:num #end~bound
+MOT #start~bound three~det:num #end~bound
+MOT #start~bound four~det:num #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound can~mod you~pro count~v them~pro:obj for~prep me~pro:obj #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound three~det:num #end~bound
+CHI #start~bound two~det:num #end~bound
+MOT #start~bound oh~co Becky~n:prop #end~bound
+CHI #start~bound wrong~adj way~n #end~bound
+MOT #start~bound count~n to~prep four~det:num for~prep me~pro:obj #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound one~pro:indef #end~bound
+MOT #start~bound oh~co sorry~co #end~bound
+MOT #start~bound it's~pro the~det wrong~adj way~n is~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound one~pro:indef #end~bound
+MOT #start~bound two~det:num #end~bound
+MOT #start~bound three~det:num #end~bound
+MOT #start~bound four~det:num #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound that's~pro:dem the~det wrong~adj way~n now~adv #end~bound
+CHI #start~bound end~n #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound end~n #end~bound
+MOT #start~bound the~det end~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound stand~n on~adv it's~pro end~n does~mod it~pro #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound two~det:num #end~bound
+CHI #start~bound three~det:num #end~bound
+CHI #start~bound one~pro:indef #end~bound
+CHI #start~bound two~det:num #end~bound
+CHI #start~bound one~pro:indef xxx~None #end~bound
+CHI #start~bound tin~n #end~bound
+MOT #start~bound ten~det:num #end~bound
+CHI #start~bound tin~n #end~bound
+MOT #start~bound tin~n #end~bound
+MOT #start~bound tin~n #end~bound
+MOT #start~bound sorry~co #end~bound
+CHI #start~bound tin~n #end~bound
+CHI #start~bound xxx~None tin~n #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound more~adv what~pro:wh #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound more~qn milk~n #end~bound
+CHI #start~bound gone~part #end~bound
+CHI #start~bound gone~part #end~bound
+CHI #start~bound gone~part #end~bound
+MOT #start~bound what's~pro:wh gone~part #end~bound
+MOT #start~bound the~det milk~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound it's~pro here~adv the~det milk~n is~cop #end~bound
+MOT #start~bound oh~co that~pro:dem milk~v #end~bound
+MOT #start~bound are~cop you~pro putting~part milk~n on~prep your~pro:poss strawberry~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound then~adv:tem it's~pro nice~adj to~inf eat~v is~aux it~pro #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound did~mod we~pro:sub have~v cream~n with~prep our~pro:poss strawberrys~n yesterday~adv:tem #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound was~cop it~pro nice~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound mm~None #end~bound
+CHI #start~bound all_gone~co #end~bound
+MOT #start~bound it's~pro all_gone~adj has~aux it~pro #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound sandwich~n #end~bound
+MOT #start~bound sandwich~n #end~bound
+CHI #start~bound dinner~n #end~bound
+MOT #start~bound dinner~n #end~bound
+CHI #start~bound Mummy~n:prop #end~bound
+MOT #start~bound thank_you~co #end~bound
+MOT #start~bound that's~pro:dem lettuce~n #end~bound
+CHI #start~bound lettuce~n #end~bound
+CHI #start~bound want~v #end~bound
+MOT #start~bound oh~co no~co #end~bound
+MOT #start~bound don't~None don't~mod put~v it~pro in~prep your~pro:poss mouth~n #end~bound
+CHI #start~bound horrible~adj #end~bound
+MOT #start~bound horrible~adj #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod bite~v them~pro:obj #end~bound
+MOT #start~bound they're~pro:sub just~adv pretend~adj aren't~aux they~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there's~pro:exist some~qn bananas~n here~adv look~n Becky~n:prop #end~bound
+CHI #start~bound banana~n #end~bound
+MOT #start~bound and~conj there's~pro:exist that~det tomato~n #end~bound
+MOT #start~bound and~conj some~qn eggs~n #end~bound
+CHI #start~bound there~adv #end~bound
+CHI #start~bound more~qn eggs~n #end~bound
+MOT #start~bound more~qn eggs~n #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound more~qn eggs~n #end~bound
+CHI #start~bound more~qn eggs~n #end~bound
+INV #start~bound www~None #end~bound
+CHI #start~bound more~qn eggs~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound there~adv are~cop no~qn more~pro:indef #end~bound
+MOT #start~bound that's~pro:dem all~adv the~det eggs~n #end~bound
+MOT #start~bound there's~pro:exist a~det baby~n egg~n there~adv look~co #end~bound
+MOT #start~bound can~mod you~pro see~v the~det baby~n egg~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound Mummy~n:prop egg~n #end~bound
+MOT #start~bound that's~pro:dem a~det Mummy~n:prop egg~n is~aux it~pro #end~bound
+CHI #start~bound Mummy~n:prop egg~n #end~bound
+MOT #start~bound and~conj a~det what~pro:wh #end~bound
+CHI #start~bound Mummy~n:prop egg~n #end~bound
+MOT #start~bound Mummy~n:prop egg~n #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound lid~n on~adv #end~bound
+CHI #start~bound lid~n on~adv #end~bound
+INV #start~bound pardon~co #end~bound
+CHI #start~bound lid~n on~adv #end~bound
+MOT #start~bound lid~n on~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound strawberry~n #end~bound
+MOT #start~bound strawberry~n #end~bound
+MOT #start~bound yes~co #end~bound
+MOT #start~bound and~conj what's~pro:wh this~pro:dem #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound cake~n #end~bound
+CHI #start~bound this~pro:dem #end~bound
+MOT #start~bound that's~pro:dem icing~n #end~bound
+CHI #start~bound icing~n #end~bound
+INV #start~bound www~None #end~bound
+MOT #start~bound is~cop that~pro:dem nice~adj to~inf eat~v #end~bound
+MOT #start~bound ugh~co #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v it~pro is~cop actually~adv #end~bound
+MOT #start~bound just~adv pretend~adj to~inf eat~v it~pro #end~bound
+CHI #start~bound chin~n #end~bound
+CHI #start~bound chin~n #end~bound
+MOT #start~bound does~mod your~pro:poss chin~n hurt~v #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound oh~co dear~co #end~bound
+CHI #start~bound Andy~n:prop #end~bound
+MOT #start~bound give~v Andy~n:prop a~det cuddle~v #end~bound
+CHI #start~bound this~pro:dem #end~bound
+CHI #start~bound this~pro:dem #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound this~pro:dem #end~bound
+MOT #start~bound this~pro:dem #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound it's~pro a~det rabbit~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yeah~co #end~bound
+CHI #start~bound Andy~n:prop #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound red~adj #end~bound
+MOT #start~bound red~adj #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound teddy~n eating~part #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound go~v away~adv #end~bound
+CHI #start~bound no~co #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound who'd~rel want~v to~inf eat~v Lego~n:prop #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound he~pro:sub doesn't~mod want~v that~pro:dem #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound he~pro:sub says~v look~co no~co #end~bound
+CHI #start~bound top~adj #end~bound
+MOT #start~bound pardon~co #end~bound
+CHI #start~bound top~adj #end~bound
+MOT #start~bound top~adj #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound top~n of~prep what~pro:wh #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound what~pro:wh does~v he~pro:sub want~v now~adv do~v you~pro think~v #end~bound
+CHI #start~bound more~qn milk~n #end~bound
+MOT #start~bound more~qn milk~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv #end~bound
+MOT #start~bound see~v if~conj he~pro:sub wants~v some~qn more~pro:indef #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound give~None give~v him~pro:obj the~det er~None the~det bottle~n #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound he~pro:sub doesn't~mod want~v any~qn more~pro:indef #end~bound
+MOT #start~bound he's~pro:sub had~part enough~adv #end~bound
+MOT #start~bound all_gone~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound he~pro:sub doesn't~mod want~v any~qn more~pro:indef #end~bound
+MOT #start~bound he's~pro:sub had~part enough~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound Andy~n:prop want~v it~pro #end~bound
+MOT #start~bound Andy~n:prop wants~v it~pro does~v he~pro:sub #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound go~v on~adv then~adv:tem #end~bound
+MOT #start~bound see~v if~conj Andy~n:prop wants~v some~qn #end~bound
+MOT #start~bound oh~co yes~co #end~bound
+MOT #start~bound he~pro:sub likes~v that~rel #end~bound
+MOT #start~bound it's~pro nice~adj #end~bound
+MOT #start~bound see~v if~conj he~pro:sub wants~v some~qn more~pro:indef #end~bound
+MOT #start~bound lift~n up~prep the~det bottle~n #end~bound
+MOT #start~bound lift~v it~pro up~adv #end~bound
+MOT #start~bound xxx~None a~det drink~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound do~mod you~pro think~v Andy's~n:prop had~part enough~adj now~adv as_well~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound yes~co #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound he~pro:sub doesn't~mod want~v any~qn more~pro:indef #end~bound
+MOT #start~bound I~pro:sub think~v it's~pro all_gone~adj actually~adv #end~bound
+CHI #start~bound chin~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound you've~pro hurt~part your~pro:poss chin~n #end~bound
+CHI #start~bound Andy~n:prop teddy~n #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound www~None #end~bound
+MOT #start~bound are~cop you~pro putting~part it~pro on~adv for~prep sympathy~n #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound yeah~co #end~bound
+MOT #start~bound you~pro like~v sympathy~n don't~mod you~pro #end~bound
+CHI #start~bound more~pro:indef #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound it's~pro all_gone~adj #end~bound
+MOT #start~bound it's~pro all_gone~adj look~co #end~bound
+MOT #start~bound all_gone~co #end~bound
+CHI #start~bound all_gone~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound don't~mod put~v it~pro in~prep your~pro:poss mouth~n #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound sit~v down~adv #end~bound
+MOT #start~bound down~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound where're~rel you~pro sitting~part down~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound mind~v your~pro:poss toes~n #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound the~det window~n #end~bound
+CHI #start~bound xxx~None the~det window~n #end~bound
+CHI #start~bound xxx~None the~det window~n #end~bound
+MOT #start~bound www~None #end~bound
+CHI #start~bound ow~co #end~bound
+MOT #start~bound what~pro:wh did~mod you~pro say~v to~prep that~None the~det window~n #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound it~pro doesn't~mod come~v off~prep there~pro:dem #end~bound
+MOT #start~bound it~pro doesn't~mod come~v off~adv #end~bound
+MOT #start~bound did~v you~pro say~v you~pro wanted~v him~pro:obj to~inf go~v through~adj the~det window~n #end~bound
+CHI #start~bound yeah~co #end~bound
+INV #start~bound yeah~co #end~bound
+MOT #start~bound what~pro:wh xxx~None #end~bound
+MOT #start~bound this~det window~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub doing~part #end~bound
+CHI #start~bound window~n #end~bound
+MOT #start~bound the~det window~n #end~bound
+MOT #start~bound has~v he~pro:sub gone~part through~adv #end~bound
+CHI #start~bound tiger~n #end~bound
+MOT #start~bound I~pro:sub don't~mod think~v that~rel one'll~pro:indef go~v through~adv #end~bound
+MOT #start~bound he's~pro:sub too~adv big~adj #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound oh~co dear~co #end~bound
+MOT #start~bound what's~pro:wh happened~part #end~bound
+CHI #start~bound fall~n down~adv #end~bound
+MOT #start~bound fall~n down~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound xxx~None about~prep a~det bit~n #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub done~part #end~bound
+CHI #start~bound through~adv #end~bound
+MOT #start~bound what~None what~adv did~v tiger~n do~v #end~bound
+MOT #start~bound he~pro:sub went~v through~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound shall~mod he~pro:sub go~v through~adv again~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub doing~part #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub doing~part Becky~n:prop #end~bound
+CHI #start~bound through~adv #end~bound
+MOT #start~bound going~part through~adv #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+CHI #start~bound giraffe~n through~adj #end~bound
+MOT #start~bound giraffe~n through~adj #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound xxx~None #end~bound
+MOT #start~bound he'll~pro:sub have_to~mod:aux put~v his~pro:poss head~n down~adv to~inf go~v through~adv #end~bound
+MOT #start~bound never~adv mind~v #end~bound
+CHI #start~bound and~conj Pingu~n:prop through~adv #end~bound
+MOT #start~bound Pingu~n:prop through~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound have~v you~pro got~v enough~adj room~n there~adv #end~bound
+MOT #start~bound are~cop you~pro okay~co #end~bound
+CHI #start~bound Pingu~n:prop through~adv #end~bound
+MOT #start~bound Pingu~n:prop go~v through~adv #end~bound
+CHI #start~bound through~adv #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+CHI #start~bound in~prep there~pro:dem #end~bound
+MOT #start~bound through~adv there~adv #end~bound
+MOT #start~bound okay~co #end~bound
+MOT #start~bound I'll~pro:sub put~v xxx~None together~adv again~adv #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound shall~mod we~pro:sub put~v this~det penguin~n through~adj now~adv #end~bound
+CHI #start~bound tiger~n through~adj #end~bound
+CHI #start~bound tiger~n through~adj #end~bound
+MOT #start~bound tiger~n through~adj again~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound giraffe~n through~adj #end~bound
+CHI #start~bound giraffe~n through~adj #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound he's~pro:sub eating~part is~aux he~pro:sub #end~bound
+MOT #start~bound what's~pro:wh he~pro:sub eating~part #end~bound
+MOT #start~bound what~pro:wh is~aux this~det #end~bound
+CHI #start~bound eating~part #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound eating~part lettuce~n #end~bound
+CHI #start~bound yeah~co #end~bound
+MOT #start~bound does~mod he~pro:sub like~v it~pro #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound hmm~None #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound eating~part #end~bound
+MOT #start~bound is~cop that~pro:dem how~adv:wh it~pro goes~v when~conj he~pro:sub eats~v #end~bound
+CHI #start~bound elephant~n through~adj #end~bound
+MOT #start~bound I'm~pro:sub not~neg sure~adj if~conj the~det elephant~n will~mod fit~n through~adj #end~bound
+CHI #start~bound eating~part #end~bound
+MOT #start~bound oh~co he's~pro:sub eating~part is~aux he~pro:sub #end~bound
+MOT #start~bound hmm~None #end~bound
+MOT #start~bound he's~pro:sub a~det bit~n fat~n to~inf go~v through~adv there~adv isn't~cop he~pro:sub #end~bound
+MOT #start~bound fat~adj #end~bound
+CHI #start~bound through~adv there~adv #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound he's~pro:sub stuck~part #end~bound
+MOT #start~bound oh~co he's~pro:sub stuck~part Becky~n:prop #end~bound
+MOT #start~bound he's~pro:sub stuck~part #end~bound
+MOT #start~bound stuck~v #end~bound
+MOT #start~bound whoops~co #end~bound
+MOT #start~bound he's~pro:sub too~adv fat~n to~inf go~v through~adv #end~bound
+CHI #start~bound there~adv #end~bound
+MOT #start~bound look~co #end~bound
+MOT #start~bound his~pro:poss bottom's~n stuck~part #end~bound
+MOT #start~bound he'll~pro:sub have_to~mod:aux come~v back~n I~pro:sub think~v #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound he'll~pro:sub have_to~mod:aux come~v round~adv #end~bound
+CHI #start~bound mhm~co #end~bound
+MOT #start~bound mhm~co #end~bound
+CHI #start~bound xxx~None #end~bound
+CHI #start~bound xxx~None stuck~v #end~bound
+CHI #start~bound xxx~None stuck~v #end~bound
+MOT #start~bound there~adv we~pro:sub are~cop #end~bound
+MOT #start~bound look~co #end~bound
+MOT #start~bound he's~pro:sub come~part through~prep that~det way~n on~prep his~pro:poss side~n #end~bound
+CHI #start~bound xxx~None #end~bound
+MOT #start~bound can~mod you~pro put~v him~pro:obj through~adv #end~bound
+CHI #start~bound yeah~co #end~bound
+CHI #start~bound ow~co #end~bound
+MOT #start~bound no~co #end~bound
+MOT #start~bound you're~pro knocking~part it~pro over~adv look~co #end~bound
+MOT #start~bound oh~co #end~bound
+MOT #start~bound xxx~None aren't~aux they~pro:sub #end~bound
+MOT #start~bound shall~mod we~pro:sub stand~v them~pro:obj up~adv #end~bound
+CHI #start~bound baby~n tiger~n #end~bound
+CHI #start~bound baby~n tiger~n #end~bound
+MOT #start~bound the~det baby~n tiger~n #end~bound
+CHI #start~bound yeah~co #end~bound
