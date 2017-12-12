@@ -129,7 +129,7 @@ def count_cds_unique_words(corpus, pos_dict=None):
                 words = tokens[2:-1]
                 for w in words:
                     if pos_dict:
-                        if w.split('~')[1] not in pos_dict:
+                        if w.split('~')[1] in pos_dict:
                             word_set.add(w)
                     else:
                         word_set.add(w)
@@ -167,7 +167,7 @@ def count_cds_tokens(corpus, pos_dict=None):
                 words = utterance[2:-1]
                 for w in words:
                     if pos_dict:
-                        if w.split('~')[1] not in pos_dict:
+                        if w.split('~')[1] in pos_dict:
                             clean_words.append(w)
                     else:
                         clean_words.append(w)
