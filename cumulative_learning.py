@@ -1,192 +1,48 @@
 __author__ = 'GCassani'
 
-
 import os
 import re
 import argparse
-import operator
-import context_utils as ctxt
 from collections import defaultdict
+from context_utils.readers import read_category_mapping
+from context_utils.contexts.frames import get_salient_frames, collect_frames
+from context_utils.contexts.salient_contexts import get_useful_contexts, print_contexts
+from context_utils.vector_spaces.printer import print_vector_space
+from context_utils.vector_spaces.maker import create_vector_space
+from context_utils.pos_tagging.timbl import timbl_experiment
+from context_utils.pos_tagging.sklearn import sklearn_experiment
+from context_utils.pos_tagging.evaluation import compute_category_f1
+from context_utils.cumulative_learning.corpus_section import make_corpus_section
+from context_utils.cumulative_learning.summary_files import make_categorization_file, make_summary_file
+from context_utils.cumulative_learning.categorization import update_categorization_dict, get_accuracy, get_predictions
 
 
-########################################################################################################################
-
-
-def make_summary_file(path):
-
-    """
-    :param path:    the file where the function prints a header, only if the path points to a non existing file
-    """
-
-    with open(path, 'x') as o_f:
-        o_f.write('\t'.join(['model', 'boundaries', 'age', 'time', 'corpus', 'training_sentences', 'training_tokens',
-                             'training_types', 'test_sentences', 'test_tokens', 'test_types', 'selected',
-                             'useless_test', 'missed_test', 'timbl_accuracy', 'sklearn_accuracy']))
-        o_f.write('\n')
-
-
-########################################################################################################################
-
-
-def make_categorization_file(path):
+def make_model_id(cond_prob=True, div=True, freq=True, bigrams=True, trigrams=True):
 
     """
-    :param path:    the file where the function prints a header, only if the path points to a non existing file
+    :param cond_prob:       a boolean indicating whether average conditional probabilities of contexts given words are
+                            a relevant piece of information in deciding about how important a context it
+    :param div:             a boolean indicating whether lexical diversity of contexts, i.e. the number of different
+                            words that occur in a context, is a relevant piece of information in deciding about how
+                            important a context it
+    :param freq:            a boolean indicating whether contexts' frequency count is a relevant piece of information in
+                            deciding about how important a context it
+    :param bigrams:         a boolean indicating whether bigrams are to be collected
+    :param trigrams:        a boolean indicating whether trigrams are to be collected
+    :return:                a string encoding which input options were true: it uniquely identifies a model in the
+                            possible parameter space
     """
 
-    with open(path, 'x') as c_f:
-        c_f.write('\t'.join(['model', 'boundaries', 'age', 'time', 'corpus', 'word', 'correct',
-                             'timbl_predicted', 'timbl_accuracy', 'sklearn_predicted', 'sklearn_accuracy']))
-        c_f.write('\n')
+    info = ''
+    info = ''.join([info, 'c']) if cond_prob else info
+    info = ''.join([info, 'd']) if div else info
+    info = ''.join([info, 'f']) if freq else info
 
+    context = ''
+    context = ''.join([context, 'b']) if bigrams else context
+    context = ''.join([context, 't']) if trigrams else context
 
-########################################################################################################################
-
-
-def make_corpus_section(output_file, ages, i, target_dir='', pos_dict=None, training=True):
-
-    """
-    :param output_file:     the path to the file that will be created
-    :param ages:            a list of file-names
-    :param i:               an index (between 0 and the length of the input list
-    :param target_dir:      the path to the folder where the newly created file will be moved. The default is the empty
-                            string, meaning that the file is not moved from the current working directory
-    :param pos_dict:        a dictionary mapping CHILDES PoS tags to custom tags; any CHILDES tag that doesn't appear as
-                            key in the dictionary is assumed to be irrelevant and words labeled with those tags are
-                            discarded; the default to None means that every input word is considered
-    :param training:        a boolean specifying whether the function creates the training file or not (in which case it
-                            automatically creates a test file). In case a training file is created, all files up to the
-                            index i are printed to the output_file
-    :return sentences:      the number of sentences from adult speakers in the output file
-    :return tokens:         the number of tokens (from the allowed PoS tags, if so desired) in the outputs file
-    :return types:          the number of types (from the allowed PoS tags, if so desired) in the output file
-    """
-
-    # create the output file according to the input specification
-    destination = '/'.join([target_dir, output_file]) if target_dir else output_file
-    if not os.path.exists(destination):
-        if training:
-            cmd = 'cat ' + ' '.join(ages[:i+1]) + ' >> ' + output_file
-        else:
-            cmd = 'cat ' + ' '.join(ages[i:]) + ' >> ' + output_file
-        os.system(cmd)
-
-        if target_dir:
-            cmd = ' '.join(['mv', output_file, target_dir])
-            os.system(cmd)
-    else:
-        print("The file at %s already exists." % destination)
-
-    # get counts for sentences, tokens, and types
-    sentences = ctxt.count_cds_lines(destination)
-    tokens = ctxt.count_cds_tokens(destination, pos_dict=pos_dict)
-    types = ctxt.count_cds_unique_words(destination, pos_dict=pos_dict)
-
-    return sentences, tokens, types
-
-
-########################################################################################################################
-
-
-def print_contexts(contexts, path):
-
-    """
-    :param contexts:    a dictionary mapping strings to numbers
-    :param path:        the path to the file where contexts are gonna be printed
-    """
-
-    with open(path, 'w+') as f:
-        for k in sorted(contexts.items(), key=operator.itemgetter(1), reverse=True):
-            f.write('\t'.join([k[0], str(k[1])]))
-            f.write('\n')
-
-
-########################################################################################################################
-
-
-def update_categorization_dict(source_dict, unused_words, target_dict, experiment, model, boundaries,
-                               age, time, corpus, pos_mapping=None):
-
-    """
-    :param source_dict:     the dictionary containing results of the categorization experiment: each key is a word
-                            mapping to the correct PoS tag ('correct'), the predicted PoS tag ('predicted') and the
-                            categorization accuracy ('accuracy'), 1 if predicted and correct match, 0 otherwise
-    :param unused_words:    a set of words that didn't occur with any of the contexts the model being considered deemed
-                            salient; if a word doesn't occur with any context, it's impossible to categorize
-    :param target_dict:     a dictionary storing the categorization information for all experiments: a word maps to its
-                            correct PoS tag and to a dictionary indicating each experiment that was run. The experiment
-                            dictionary consists of two further keys, 'predicted' and 'accuracy'. As an example, the word
-                            dog in this dictionary would look something like this:
-                            'dog':  'correct':  N
-                                    'timbl':    'predicted':    N
-                                                'accuracy':     1
-                                    'sklearn':  'predicted':    A
-                                                'accuracy'      0
-                            It is a noun ('correct': N), the timbl experiment predicted noun ('timbl':'predicted':N)
-                            and it was correct ('timbl':'accuracy':1) while the sklearn experiment predicted adjective
-                            ('sklearn':'predicted':A) and it was wrong ('sklearn':'accuracy':0)
-    :param experiment:      the string identifying the experiment being considered
-    :param model:           the string indicating the model being considered
-    :param boundaries:      a string indicating whether utterance boundaries have been considered or not
-    :param age:             the age of the child whose transcript were used to perform the experiment
-    :param time:            the time index corresponding to the age
-    :param corpus:          the name of the corpus being used
-    :param pos_mapping:     a dictionary mapping CHILDES PoS tags to custom ones
-    :return:                the target_dict argument, with all words from the source_dict added
-    """
-
-    for word in source_dict:
-        word_key = '\t'.join([model, boundaries, age, str(time), corpus, word])
-        target_dict[word_key]['correct'] = source_dict[word]['correct']
-        target_dict[word_key][experiment] = {'predicted': source_dict[word]['predicted'],
-                                             'accuracy': source_dict[word]['accuracy']}
-    for word in unused_words:
-        word_key = '\t'.join([model, boundaries, age, str(time), corpus, word])
-        target_dict[word_key]['correct'] = pos_mapping[word.split("~")[0]] if pos_mapping else word.split("~")[0]
-        target_dict[word_key][experiment] = {'predicted': 'null',
-                                             'accuracy': 0}
-
-    return target_dict
-
-
-########################################################################################################################
-
-
-def get_accuracy(d, key1, key2):
-
-    """
-    :param d:       a dictionary of dictionaries
-    :param key1:    a string indicating a possible first-level key of the dictionary
-    :param key2:    a string indicating a possible second-level key of the the first-level key (which is itself a
-                    dictionary)
-    :return:        the value indicated by the two keys in the input dictionary if one was retrieved, nan otherwise
-    """
-
-    try:
-        return d[key1][key2]
-    except KeyError:
-        return float('nan')
-
-
-########################################################################################################################
-
-
-def get_predictions(d, key1, key2):
-
-    """
-    :param d:       a dictionary of dictionaries
-    :param key1:    a string indicating a possible first-level key of the dictionary
-    :param key2:    a string indicating a possible second-level key of the the first-level key (which is itself a
-                    dictionary)
-    :return:        the predicted PoS tag under the categorization experiment indicated by key2, and the accuracy score
-                    (1 if the prediction was correct, 0 otherwise); if key2 is missing, a dash is returned as the
-                    predicted category and nan as the accuracy
-    """
-
-    try:
-        return d[key1][key2]['predicted'], d[key1][key2]['accuracy']
-    except KeyError:
-        return '-', float('nan')
+    return '_'.join([info, context])
 
 
 ########################################################################################################################
@@ -310,7 +166,7 @@ def cumulative_learning(corpus_folder, output_folder, pos_map_file,
     ignore_te_path = os.path.abspath(ignore_te_path) if ignore_te_path else ''
 
     pos_map_file = os.path.abspath(pos_map_file)
-    pos_mapping = ctxt.read_category_mapping(pos_map_file)
+    pos_mapping = read_category_mapping(pos_map_file)
 
     # create the output folder if it doesn't exist and get the absolute paths of both folders
     if not os.path.exists(output_folder):
@@ -383,25 +239,25 @@ def cumulative_learning(corpus_folder, output_folder, pos_map_file,
                 selected = 45
 
                 # get the frequent frames for the training corpus
-                frames = ctxt.harvest_frames(training_corpus, pos_dict=pos_mapping, boundaries=boundaries,
-                                             freq_frames=True, flex_frames=False)
-                salient_contexts = ctxt.get_salient_frames(frames, selected)
+                frames = collect_frames(training_corpus, pos_dict=pos_mapping, boundaries=boundaries,
+                                        freq_frames=True, flex_frames=False)
+                salient_contexts = get_salient_frames(frames, selected)
                 print('Estimated frequent frames for corpus %s up to age %s' % (corpus, age))
 
             elif flex_frames:
                 model = 'flexFrames'
                 selected = 90
 
-                frames = ctxt.harvest_frames(training_corpus, pos_dict=pos_mapping, boundaries=boundaries,
-                                             freq_frames=False, flex_frames=True)
-                salient_contexts = ctxt.get_salient_frames(frames, selected)
+                frames = collect_frames(training_corpus, pos_dict=pos_mapping, boundaries=boundaries,
+                                        freq_frames=False, flex_frames=True)
+                salient_contexts = get_salient_frames(frames, selected)
                 print('Estimated flexible frames for corpus %s up to age %s' % (corpus, age))
 
             elif any([cond_prob, div, freq]):
-                model = ctxt.model_id(cond_prob=cond_prob, div=div, freq=freq, bigrams=bigrams, trigrams=trigrams)
-                salient_contexts = ctxt.learning_contexts(training_corpus, pos_dict=pos_mapping, k=threshold,
-                                                          boundaries=boundaries, bigrams=bigrams, trigrams=trigrams,
-                                                          cond_prob=cond_prob, div=div, freq=freq, averages=averages)
+                model = make_model_id(cond_prob=cond_prob, div=div, freq=freq, bigrams=bigrams, trigrams=trigrams)
+                salient_contexts = get_useful_contexts(training_corpus, pos_dict=pos_mapping, k=threshold,
+                                                       boundaries=boundaries, bigrams=bigrams, trigrams=trigrams,
+                                                       cond_prob=cond_prob, div=div, freq=freq, averages=averages)
                 selected = len(salient_contexts) if len(salient_contexts) else float('nan')
                 print('Estimated salient contexts for corpus %s up to age %s' % (corpus, age))
 
@@ -425,16 +281,14 @@ def cumulative_learning(corpus_folder, output_folder, pos_map_file,
             # build training and test vector spaces using the contexts deemed salient according to the model being run
             # the x variable stands for the contexts ids, which are however useless in the leave-one-out design;
             # if the training-test setting is chosen, context_ids will be derived when constructing the test space
-            training, useless, unused, tr_words, context_ids = ctxt.build_experiment_vecspace(training_corpus,
-                                                                                              salient_contexts,
-                                                                                              pos_dict=pos_mapping,
-                                                                                              boundaries=boundaries,
-                                                                                              bigrams=True,
-                                                                                              trigrams=True,
-                                                                                              targets=target_tr_path,
-                                                                                              to_ignore=ignore_tr_path)
+            training, useless, unused, tr_words, context_ids = create_vector_space(training_corpus, salient_contexts,
+                                                                                   pos_dict=pos_mapping,
+                                                                                   boundaries=boundaries,
+                                                                                   bigrams=True, trigrams=True,
+                                                                                   targets=target_tr_path,
+                                                                                   to_ignore=ignore_tr_path)
             if training.any():
-                ctxt.create_vector_space(training, tr_words, context_ids, training_file)
+                print_vector_space(training, tr_words, context_ids, training_file)
                 print('Created training space for corpus %s up to age %s, in folder %s' %
                       (corpus, age, model_output_folder))
 
@@ -442,23 +296,21 @@ def cumulative_learning(corpus_folder, output_folder, pos_map_file,
                     test_file = '/'.join([model_output_folder, 'test_file.csv'])
                     # the x variable would be the same as tr_contexts since the contexts don't change: to mark the
                     # uselessness of the variable, I set it to x
-                    test, useless, unused, te_words, context_ids = ctxt.build_experiment_vecspace(test_corpus,
-                                                                                                  salient_contexts,
-                                                                                                  pos_dict=pos_mapping,
-                                                                                                  boundaries=boundaries,
-                                                                                                  bigrams=True,
-                                                                                                  trigrams=True,
-                                                                                                  targets=target_te_path,
-                                                                                                  to_ignore=ignore_te_path)
-                    types = test_types
+                    test, useless, unused, te_words, context_ids = create_vector_space(test_corpus, salient_contexts,
+                                                                                       pos_dict=pos_mapping,
+                                                                                       boundaries=boundaries,
+                                                                                       bigrams=True, trigrams=True,
+                                                                                       targets=target_te_path,
+                                                                                       to_ignore=ignore_te_path)
+                    types = len(unused) + len(te_words)
                     if test.any():
-                        ctxt.create_vector_space(test, te_words, context_ids, test_file)
+                        print_vector_space(test, te_words, context_ids, test_file)
                         print('Created test space using contexts estimate up to age %s for corpus %s, with model %s' %
                               (age, corpus, model))
 
                 else:
                     test, te_words, test_file, context_ids = [None, None, None, None]
-                    types = train_types
+                    types = len(unused) + len(tr_words)
 
                 coverage = len(unused) / types
                 proportion_useless = len(useless) / selected
@@ -470,25 +322,22 @@ def cumulative_learning(corpus_folder, output_folder, pos_map_file,
                 if timbl:
                     # run the TiMBL experiment and get accuracy scores; finally update the appropriate structures
                     output_file = '/'.join([model_output_folder, 'output_space.txt'])
-                    timbl_accuracies = ctxt.timbl_experiment(training_file, output_file, test=test_file, nn=nn)
+                    timbl_accuracies = timbl_experiment(training_file, output_file, test=test_file, nn=nn)
                     accuracies = update_categorization_dict(timbl_accuracies, unused, accuracies, 'timbl', model, b,
                                                             age, i, corpus)
-                    timbl_stats = ctxt.category_f1(timbl_accuracies)
+                    timbl_stats = compute_category_f1(timbl_accuracies)
                     summary[s_key]['timbl'] = str(timbl_stats['all']['f1'])
 
                 if sklearn:
                     # run the sklearn experiment (co-occurrence matrices are printed inside the run_sklearn_experiment
                     # function) and get accuracy scores; finally update the appropriate structures
                     plot_path = '/'.join([model_output_folder, 'similarities.pdf'])
-                    sklearn_accuracies, sim, word_ids = ctxt.sklearn_cosine_similarity(training, tr_words,
-                                                                                       test_space=test,
-                                                                                       test_words=te_words,
-                                                                                       contexts=context_ids,
-                                                                                       nn=nn, diag_value=diag_value,
-                                                                                       plot=plot_path)
+                    sklearn_accuracies, sim, word_ids = sklearn_experiment(training, tr_words, test_space=test,
+                                                                           test_words=te_words, contexts=context_ids,
+                                                                           nn=nn, diag_value=diag_value, plot=plot_path)
                     accuracies = update_categorization_dict(sklearn_accuracies, unused, accuracies, 'sklearn', model,
                                                             b, age, i, corpus)
-                    sklearn_stats = ctxt.category_f1(sklearn_accuracies)
+                    sklearn_stats = compute_category_f1(sklearn_accuracies)
                     summary[s_key]['sklearn'] = str(sklearn_stats['all']['f1'])
 
                 print('Run PoS tagging experiment and evaluated it for corpus %s up to age %s' % (corpus, age))
