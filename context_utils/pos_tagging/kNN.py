@@ -127,4 +127,3 @@ def categorize(nearest_neighbours, training_matrix, word_indices, pos_mapping=No
             predicted = most_frequent[0]
 
     return predicted
-    

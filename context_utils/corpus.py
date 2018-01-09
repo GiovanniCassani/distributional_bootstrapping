@@ -45,24 +45,17 @@ def count_cds_types(corpus, pos_dict=None):
 
     word_set = set()
 
-    print(pos_dict)
-
     with open(corpus, 'r+') as f:
         for line in f:
             tokens = line.strip().split(' ')
             if tokens[0] != 'CHI':
-                print(line.strip())
-                print(tokens)
                 words = tokens[2:-1]
-                print(words)
                 for w in words:
-                    print(w)
                     if pos_dict:
                         if w.split('~')[1] in pos_dict:
                             word_set.add(w)
                     else:
                         word_set.add(w)
-                print(word_set)
 
     types = len(word_set)
     return types
