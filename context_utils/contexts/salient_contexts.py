@@ -12,7 +12,7 @@ from context_utils.readers import read_txt_corpus_file
 from context_utils.corpus import get_words_and_contexts
 from context_utils.utterance import strip_pos, construct_window, get_ngrams
 from context_utils.vector_spaces.maker import sort_items
-from context_utils.contexts.context_scores import compute_context_score, get_averages
+from context_scores import compute_context_score, get_averages
 
 
 def print_contexts(contexts, path):

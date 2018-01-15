@@ -7,7 +7,7 @@ import os
 import numpy as np
 import pandas as pd
 from context_utils.contexts.salient_contexts import get_useful_contexts
-from context_utils.contexts.context_scores import compute_predictability
+from context_scores import compute_predictability
 from context_utils.vector_spaces.maker import create_vector_space
 
 
