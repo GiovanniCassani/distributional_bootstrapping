@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Print or visualize co-occurrence vector spaces"""
+
+
 import operator
 import numpy as np
 import matplotlib.pyplot as plt

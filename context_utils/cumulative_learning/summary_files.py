@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Create summary files to store statistics on the outcome of the context selection experiments"""
+
+
 def make_summary_file(path):
 
     """

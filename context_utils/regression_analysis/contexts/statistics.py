@@ -1,3 +1,7 @@
+__author__ = 'GCassani'
+
+"""Compute distributional information about contexts given a co-occurrence vector space"""
+
 import os
 import scipy.stats
 import operator

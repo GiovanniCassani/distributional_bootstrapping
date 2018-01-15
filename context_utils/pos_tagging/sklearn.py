@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Perform PoS tagging using kNN categorization (tie breaking through frequency heuristic and random sampling)"""
+
+
 import warnings
 from collections import defaultdict
 from context_utils.vector_spaces.maker import sort_items, make_matrix

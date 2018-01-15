@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Compute the salience of a context, combining frequency, lexical diversity, and predictability"""
+
+
 import numpy as np
 from collections import Counter
 
@@ -146,9 +151,9 @@ def get_averages(co_occurrences, word_frequencies):
 def compute_predictability(co_occurrences, word_frequencies):
 
     """
-    :param word_frequencies:    a dictionary mapping words to their frequency count in the corpus
     :param co_occurrences:      the column vector corresponding to the current context, containing its co-occurrence
                                 counts with all the words in the corpus
+    :param word_frequencies:    a dictionary mapping words to their frequency count in the corpus
     :return:                    the average predictability value for the current context given all the words it
                                 co-occurred with in the corpus
     """

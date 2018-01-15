@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Create the co-occurrence vector space from a corpus, given a set of relevant distributional contexts"""
+
+
 import json
 import numpy as np
 from time import strftime

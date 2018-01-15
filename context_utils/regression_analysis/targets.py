@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Get the list of target contexts or words to run the regression analysis (see context_analysis.py)"""
+
+
 import os
 from collections import defaultdict
 

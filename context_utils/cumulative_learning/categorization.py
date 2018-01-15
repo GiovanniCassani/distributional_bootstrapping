@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Process the outcome of the PoS tagging experiment"""
+
+
 def update_categorization_dict(source_dict, unused_words, target_dict, experiment, model, boundaries,
                                age, time, corpus, pos_mapping=None):
 

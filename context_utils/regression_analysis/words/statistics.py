@@ -1,3 +1,7 @@
+__author__ = 'GCassani'
+
+"""Compute distributional information concerning words given a co-occurrence vector space"""
+
 import os
 import scipy.stats
 import numpy as np

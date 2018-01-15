@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Perform PoS tagging using kNN categorization using TiMBL"""
+
+
 import os
 from collections import defaultdict
 

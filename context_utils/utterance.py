@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Process each utterance to extract lexically specific distributional contexts"""
+
+
 import re
 import numpy as np
 

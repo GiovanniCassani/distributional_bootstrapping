@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Evaluate to what extent PoS tagging was successful, using precision, recall, and f1"""
+
+
 from collections import defaultdict
 
 

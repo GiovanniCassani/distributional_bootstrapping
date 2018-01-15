@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Extract frequent frames (Mintz, 2003) and/or flexible frames from a corpus (St. Clairet al, 2010)"""
+
+
 import operator
 from collections import Counter
 from context_utils.readers import read_txt_corpus_file

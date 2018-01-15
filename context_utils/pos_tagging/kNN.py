@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Implement kNN algorithm for PoS tagging"""
+
+
 import numpy as np
 from collections import Counter
 

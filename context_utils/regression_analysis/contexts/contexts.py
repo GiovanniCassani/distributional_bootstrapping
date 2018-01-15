@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Find the relevant distributional contexts from the training corpus and create the co-occurrence vector space"""
+
+
 import json
 import numpy as np
 from time import strftime

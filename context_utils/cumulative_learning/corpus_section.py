@@ -1,5 +1,10 @@
+__author__ = 'GCassani'
+
+"""Pre-process corpora to use them in the context selection experiment (see cumulative_learning.py)"""
+
 import os
 from context_utils.corpus import count_cds_types, count_cds_tokens, count_cds_lines
+
 
 def make_corpus_section(output_file, ages, i, target_dir='', pos_dict=None, training=True):
 

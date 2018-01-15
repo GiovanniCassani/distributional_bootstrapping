@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Process input corpora to get global statistics about utterances, tokens, types, and distributional contexts"""
+
+
 from context_utils.utterance import clean_utterance, construct_window, get_ngrams
 
 

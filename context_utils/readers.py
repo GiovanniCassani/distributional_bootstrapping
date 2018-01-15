@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Load corpora, set of target words, mapping between CHILDES PoS tags and custom tags"""
+
+
 import csv
 
 

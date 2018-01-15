@@ -1,3 +1,8 @@
+__author__ = 'GCassani'
+
+"""Compute feature weights for the relevant contexts given an input co-occurrence vector space"""
+
+
 import os
 from collections import defaultdict
 

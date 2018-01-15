@@ -1,3 +1,9 @@
+__author__ = 'GCassani'
+
+"""Get the most useful distributional contexts from a corpus, based on their salience (a combination of
+frequency, lexical diversity, and predictability given the words they co-occur with)"""
+
+
 import operator
 import numpy as np
 from time import strftime
