@@ -1,4 +1,4 @@
-# distributional_bootstrapping
+# Distributional bootstrapping experiments
 Code to run the simulations about distributional bootstrapping
 
 There are two main functions, both can be called from command line:
