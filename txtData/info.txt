@@ -1,0 +1,7 @@
+These are the two of the 13 corpora I used for my simulations, provided as examples: you can pass them
+as input to the cumulative_learning function to replicate the simulations detailed in 
+
+Cassani, G., Grimm, R., Gillis, S., Daelemans, W., (submitted). More than counts: diversity and predictability help learning lexical categories.
+
+on unsupervised selection of useful distributional contexts combining frequency, diversity, and predictability.
+
