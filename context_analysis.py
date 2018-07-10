@@ -179,7 +179,7 @@ def context_analysis(input_corpus, pos_dict, output_dir, leave_one_out=False, tr
 def main():
 
     parser = argparse.ArgumentParser(description="Select distributional contexts and perform "
-                                                 "a PoS tagging experiment using TiMBL.")
+                                                 "a PoS tagging experiment using kNN clustering.")
 
     parser.add_argument("-c", "--corpus", required=True, dest="corpus",
                         help="Specify the corpus file to be used as input (encoded as a .json file).")
