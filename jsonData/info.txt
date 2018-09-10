@@ -1,10 +1,10 @@
 These are the two of the 13 .json files containing the corpora I used for my simulations, provided as examples: you can pass one such file 
 as input corpus to the context_analysis function to replicate the simulations detailed in 
 
-Cassani, G., Grimm, R., Gillis, S., Daelemans, W., (submitted). What makes a distributional context useful? Lexical diversity is more   important than frequency. 
+Cassani, G., Grimm, R., Gillis, S., Daelemans, W., (submitted). What makes a distributional context useful? Lexical diversity is more important than frequency. 
 
 and
 
 Cassani, G., Grimm, R., Daelemans, W., Gillis, S., (submitted). Lexical category acquisition is facilitated by uncertainty in distributional co-occurrences
 
-about context usefulness and word categorization respectively.
+about predictors of context usefulness and word categorization respectively.
