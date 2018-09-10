@@ -7,7 +7,7 @@ There are two main functions, both can be called from command line:
 
 The function context_scores.py is the main engine of the cumulative_learning function and is provided alone so that it is more easily accessible and not hidden amon the other utilities: that function implements the computation of contexts' usefulness based on a combination of frequency, diversity, and predictability. Usefulness computed in this way is used in the cumulative_learning.py function to select useful contexts which are used to collect co-occurrence counts.
 
-The function compute_correlations.py performs a sanity check by (i) computing correlations between Information Gain (used as a dependent variable to model contexts' usefulness in the context_analysis.py function) and usefulness as computed by the context_scores.py function
+The function compute_correlations.py performs a sanity check by (i) computing correlations between Information Gain (used as a dependent variable to model contexts' usefulness in the context_analysis.py function) and usefulness as computed by the context_scores.py function.
 The folder context_utils contains several modules that are called in the two main functions; and (ii) computing correlations between average conditional probabilities of contexts given words and average predictability of contexts given words, where predictability is defined as the log of the word-context co-occurrence frequency count divided by the log of the word frequency count. These checks were implemented to make sure that assumptions made in the implementation of the cumulative_learning.py function were warranted.
 
 The folder context_utils contains several modules that are called in the two main functions.
