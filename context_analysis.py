@@ -28,7 +28,7 @@ def context_analysis(input_corpus, pos_dict, output_dir, leave_one_out=False, tr
                             set are categorized searching the same set of words (except for the target) for the nearest
                             neighbours. Default is false, meaning that a train-test approach is used
     :param training_perc:   the percentage of the input corpus to be used for training
-    :param test_perc:       the percentage of the input corpus to be used for testing (if theleave_one_out parameter is
+    :param test_perc:       the percentage of the input corpus to be used for testing (if the leave_one_out parameter is
                             set to False)
     :param bigrams:         a boolean specifying whether to consider bigrams or not
     :param trigrams:        a boolean specifying whether to consider trigrams or not
@@ -204,12 +204,10 @@ def main():
                         help="Specify the minimum percentage of utterances from each input corpus to be used for "
                              "training (default is 40).")
     parser.add_argument("-s", "--steps", dest="steps", default=7,
-                        help="Specify the number of training steps (default is 7, meaning that the model is "
-                             "trained first using 40% of the utterances, then 45%, then 50%, and so on, up to 70%,"
-                             "resulting in 7 steps).")
+                        help="Specify the number of training steps (default is 7).")
     parser.add_argument("-T", "--test_perc", dest="test_perc", default=30,
                         help="Specify the percentage of utterances from each input corpus to be used for testing "
-                             "(default is 30). The sum of the value passed to -T and to -M need to add to 100.")
+                             "(default is 30 - only applies if the option -l is passed).")
     parser.add_argument("-b", "--bigrams", action="store_true", dest="bigrams",
                         help="Specify whether to consider bigrams as relevant distributional contexts.")
     parser.add_argument("-t", "--trigrams", action="store_true", dest="trigrams",
